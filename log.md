@@ -19,3 +19,11 @@ and...I want to try markdown.
 
 **reference link**  
 [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+</br>
+### Day 2: Wednesday 10, 2022
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wanted to create discord bot with python.but I know today that <a href="https://t.co/d0tJxnexnl">https://t.co/d0tJxnexnl</a> is not developing now.<br>since that, might as well I want to use web api of discord. Today I watched API Reference.but I don&#39;t understand it<a href="https://t.co/CdeRadIejz">https://t.co/CdeRadIejz</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1481296097226428425?ref_src=twsrc%5Etfw">January 12, 2022</a></blockquote> 
+
+[Discord API Reference](https://discord.com/developers/docs/reference)
+
