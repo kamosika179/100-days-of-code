@@ -87,3 +87,12 @@ how to set document root in apache.
 [【初心者向け】Vue.jsをToDoアプリを作りながら学ぼう](https://zenn.dev/shima_zu/articles/vuejs_todo_application)
 
 mmm~~ I'm so tired!
+
+## Day 5: Saturday 15, 2022
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day5:<br>I also created web with vue.js for calculating something today! today I created the things which calculating efficiency of an encoding!<br>I will decorate these component with css. I have to learn css...👿<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/6kzESNBLXd">pic.twitter.com/6kzESNBLXd</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1482342672279175171?ref_src=twsrc%5Etfw">January 15, 2022</a></blockquote> 
+
+**reference link** 
+[for](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for)
+
+[Array.length](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
