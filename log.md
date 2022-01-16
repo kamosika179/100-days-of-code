@@ -97,3 +97,19 @@ mmm~~ I'm so tired!
 [for](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for)
 
 [Array.length](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+
+## Day 6: Sunday 16, 2022
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:6<br>I learned what is webhook and webapi(little) today.<br>Using these function properly, I wonder that I can create seems like funny! next time, I am going to watch some tutorial for using webapi(like twitter,youtube...).<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1482711574632894465?ref_src=twsrc%5Etfw">January 16, 2022</a></blockquote> 
+
+**reference link** 
+
+[Webhookとは？](https://qiita.com/soarflat/items/ed970f6dc59b2ab76169)
+
+[WebAPIについての説明](https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47)
+
+[APIの概要とデータの取得](https://www.codegrid.net/articles/2018-web-api-1/)
+
+[Get a user](https://docs.github.com/en/rest/reference/users#get-a-user)
+
+I think today's progress is little slow compare with two days ago. and it will continue during exam.
