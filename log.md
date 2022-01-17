@@ -5,7 +5,9 @@
 
 **Tweet** 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">【today&#39;s work】<br>I wrote the code for my DB assignment. To create svc file, using python.<br><br>【today learning things】<br>random.choice():it is useful to want to get element randomly in List💪.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/snhMGcOqHQ">pic.twitter.com/snhMGcOqHQ</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1480542147690774528?ref_src=twsrc%5Etfw">January 10, 2022</a></blockquote>
+</br></br>
 
+---
 ## Day 1: Tuesday 11, 2022
 
 **Tweet**
@@ -20,8 +22,9 @@ and...I want to try markdown.
 **reference link**  
 [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-</br>
+</br></br>
 
+---
 ## Day 2: Wednesday 12, 2022
 **Tweet**
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wanted to create discord bot with python.but I know today that <a href="https://t.co/d0tJxnexnl">https://t.co/d0tJxnexnl</a> is not developing now.<br>since that, might as well I want to use web api of discord. Today I watched API Reference.but I don&#39;t understand it<a href="https://t.co/CdeRadIejz">https://t.co/CdeRadIejz</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1481296097226428425?ref_src=twsrc%5Etfw">January 12, 2022</a></blockquote> 
@@ -30,6 +33,7 @@ and...I want to try markdown.
 **reference link**  
 [Discord API Reference](https://discord.com/developers/docs/reference)
 
+---
 ## Day 3: Thursday 13, 2022
 **Tweet**
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">today, I set public key at raspberry pi to connect with ssh. and search how to use vue.js going to create brief pages which calculate things useful for me. but I learning javascript and vue.js Roughly. if you know some useful contents, please tell me!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/CDWf3hOAFa">pic.twitter.com/CDWf3hOAFa</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1481643671283896322?ref_src=twsrc%5Etfw">January 13, 2022</a></blockquote>
@@ -50,7 +54,9 @@ the path to using API is far...
 [条件 (三項) 演算子](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 
 it is tended to forget.
+</br></br></br>
 
+---
 ## Day 4: Friday 14, 2022
 **Tweet**
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:4<br>I wonder I did more things than other day!<br>I created calculating average information page with vue.js. <br>and searching where apache setting file is or how to use hugo ... I am so tired! Doing unfamiliar makes me very tired! but don&#39;t dislike.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/mPU8KXNMNL">pic.twitter.com/mPU8KXNMNL</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1482005615115661315?ref_src=twsrc%5Etfw">January 14, 2022</a></blockquote> 
@@ -87,7 +93,9 @@ how to set document root in apache.
 [【初心者向け】Vue.jsをToDoアプリを作りながら学ぼう](https://zenn.dev/shima_zu/articles/vuejs_todo_application)
 
 mmm~~ I'm so tired!
+</br></br></br>
 
+---
 ## Day 5: Saturday 15, 2022
 **Tweet**
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day5:<br>I also created web with vue.js for calculating something today! today I created the things which calculating efficiency of an encoding!<br>I will decorate these component with css. I have to learn css...👿<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/6kzESNBLXd">pic.twitter.com/6kzESNBLXd</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1482342672279175171?ref_src=twsrc%5Etfw">January 15, 2022</a></blockquote> 
@@ -98,6 +106,9 @@ mmm~~ I'm so tired!
 
 [Array.length](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
 
+</br></br></br>
+
+---
 ## Day 6: Sunday 16, 2022
 **Tweet**
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:6<br>I learned what is webhook and webapi(little) today.<br>Using these function properly, I wonder that I can create seems like funny! next time, I am going to watch some tutorial for using webapi(like twitter,youtube...).<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1482711574632894465?ref_src=twsrc%5Etfw">January 16, 2022</a></blockquote> 
@@ -113,3 +124,35 @@ mmm~~ I'm so tired!
 [Get a user](https://docs.github.com/en/rest/reference/users#get-a-user)
 
 I think today's progress is little slow compare with two days ago. and it will continue during exam.
+</br></br></br>
+
+---
+## Day 7: Monday 17, 2022
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:7<br>I learned how to use WebAPI with python today!<br>&quot;requests&quot; and &quot;json&quot; library seems like useful creating that!<br>and I found Postman! it seems useful service?😍<a href="https://t.co/2F4R1ajdFj">https://t.co/2F4R1ajdFj</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1483073081883369480?ref_src=twsrc%5Etfw">January 17, 2022</a></blockquote>
+
+**reference link** 
+
+[TwitterのツイートをPythonで取得！【Pythonプログラミング入門】VRアカデミア３周年記念動画！〜初心者でも分かりやすく解説〜 #VAアカデミア](https://www.youtube.com/watch?v=e5gd-QqXmmY)
+
+[【Pythonプログラミング入門】JSONを解説！( jsonモジュール ) 〜VTuberと学習〜 【初心者向け】](https://www.youtube.com/watch?v=WsenyJ18ykU)
+
+[Pythonのf文字列（フォーマット済み文字列リテラル）の使い方](https://note.nkmk.me/python-f-strings/)
+
+[【Python Web APIでデータ取得】requestsの使い方解説！ 〜 初心者向け 〜 プログラミング入門](https://www.youtube.com/watch?v=2vHAOVp9S4U)
+
+[API Reference](https://discord.com/developers/docs/reference)
+
+I had thought that "where is url(query) for taking information!?maybe the sentence which I had read already describe hou to use discord api and I miss it !? cause I can't understand"
+but Under of this page, I found how to write query... maybe I am able to use this api maybe... 
+anyway another wall will obstacle me. I know it.
+
+[Search Tweets](https://developer.twitter.com/en/docs/twitter-api/tweets/search/quick-start/recent-search)
+
+it seems twitter api document is useful than that! they show code which how to use this api per some language.
+
+[Requests の使い方 (Python Library)](https://qiita.com/sqrtxx/items/49beaa3795925e7de666)
+
+</br></br></br>
+
+---
