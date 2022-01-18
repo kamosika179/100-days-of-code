@@ -156,3 +156,23 @@ it seems twitter api document is useful than that! they show code which how to u
 </br></br></br>
 
 ---
+
+## Day 8: Tuesday 18, 2022
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:8<br>today finally I can use discord api with bot! <br>I did sendmessage and getmessage! <br><br>I feel the requires have to study english more hurder because my reading speed and understand is so poor.<br><br>it takes me a lot of time...than I expected...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/tAPH7Eo3oi">pic.twitter.com/tAPH7Eo3oi</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1483459484563689476?ref_src=twsrc%5Etfw">January 18, 2022</a></blockquote> 
+
+it toke me a long time than I expected....
+
+**reference link** 
+
+[API Reference](https://discord.com/developers/docs/reference)
+
+[PythonでJSONの特定のデータを取り出す方法（色々）](https://ccie-go.com/python-json/)
+
+[Pythonで文字列を検索（〜を含むか判定、位置取得、カウント）](https://note.nkmk.me/python-str-search/)
+
+[処理を一時停止！Pythonでsleepを使う方法【初心者向け】](https://techacademy.jp/magazine/15822)
+
+</br></br></br>
+
+---
