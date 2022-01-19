@@ -176,3 +176,25 @@ it toke me a long time than I expected....
 </br></br></br>
 
 ---
+
+## Day 9: Wednesday 19, 2022
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:9<br>today I tackled Unity project. I knew Extension method! I didn&#39;t know that! somehow I understand how to use this method. and I wrote script that changing transparency textbox!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/EScUioll8U">pic.twitter.com/EScUioll8U</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1483772028490776576?ref_src=twsrc%5Etfw">January 19, 2022</a></blockquote> 
+
+
+**reference link**
+
+[【C#】拡張メソッドの作り方](https://qiita.com/tera1707/items/f676e57295dad2a08440)
+
+
+[UnityのImageの画像の透明度を簡単に変更するC#クラス拡張](https://zenn.dev/trpla226/articles/fa11ec7a4fc18a6a7c4e)
+
+[拡張メソッド (C# プログラミング ガイド)](https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
+
+I think always C# reference is not ease to understand even in japanese. is it only me???
+well, I didn't read properly C# basic books. because is it?
+
+and Writhing log and tweet or something.., it takes 12 mins. as references.
+</br></br></br>
+
+---
