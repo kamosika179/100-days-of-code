@@ -198,3 +198,17 @@ and Writhing log and tweet or something.., it takes 12 mins. as references.
 </br></br></br>
 
 ---
+
+## Day 10: Monday 24, 2022
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:10<br>(I Ditched 4 days...)<br>I learned how to use shell script and read file by PHP.<br>I read MySQL and PHP books fragmentally, particularly didn&#39;t read PHP parts. I wonder I want to do something with browser, so I will have to read the parts💪!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1485603379586146305?ref_src=twsrc%5Etfw">January 24, 2022</a></blockquote> 
+
+**reference link**
+
+[PHPでファイルの読み込みをする主な4つの方法](https://www.flatflag.nir87.com/fgets-810)
+
+[【PHP入門】外部コマンドの実行(exec)とコマンドライン実行の方法](https://www.sejuku.net/blog/26785)
+
+</br></br></br>
+
+---
