@@ -212,3 +212,24 @@ and Writhing log and tweet or something.., it takes 12 mins. as references.
 </br></br></br>
 
 ---
+
+## Day 11: Tuesday 25, 2022
+**Tweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:11<br>I wrote word count with vue.js. <br>I don&#39;t understand vue.js crealy but I feel useful vue.js!❤️<br>I will need to study vue more...💪 <a href="https://t.co/anMZJMuwU2">pic.twitter.com/anMZJMuwU2</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1485804929671331843?ref_src=twsrc%5Etfw">January 25, 2022</a></blockquote>
+
+**reference link**
+
+[[Git] マージしようとするとrefusing to merge unrelated historiesが出たときの対処方法](https://dev.classmethod.jp/articles/git-merge-option-allow-unrelated-histories/)
+
+initialize repository in vscode bring something wrong. it depend on changing main repository name from master to main.maybe
+
+
+[文字列の長さ（文字数）を取得](https://shanabrian.com/web/javascript/string-length.php)
+
+[フォーム入力バインディング](https://jp.vuejs.org/v2/guide/forms.html)
+
+[Vue の基本イベント全17実例！](https://blog.capilano-fw.com/?p=2787)
+</br></br></br>
+
+---
