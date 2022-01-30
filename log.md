@@ -233,3 +233,17 @@ initialize repository in vscode bring something wrong. it depend on changing mai
 </br></br></br>
 
 ---
+
+## Day 12: Sunday 30, 2022
+**Tweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:12<br>I had not motivation recently. today I enjoyed <a href="https://t.co/lAw5kpdmmi">https://t.co/lAw5kpdmmi</a> that strategy game playing with javascript. <br>I did this tutorial and battle easy mode bot. <br>I couldn&#39;t defeat even easy bot.😇<br>but it seems playing with friend is fun!! <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/kgNTfw2IuK">pic.twitter.com/kgNTfw2IuK</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1487797733474078723?ref_src=twsrc%5Etfw">January 30, 2022</a></blockquote> 
+
+**reference link**
+
+[yare.io](https://yare.io/)
+hmm...recently I haven't any motivation...huh
+
+</br></br></br>
+
+---
