@@ -247,3 +247,26 @@ hmm...recently I haven't any motivation...huh
 </br></br></br>
 
 ---
+
+# February
+
+## Day 13: Thursday 2, 2022
+
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:13<br>I wrote calculate optimal artifact combination program for genshin impact. I spent 5 hours then I realized... but this program doesn&#39;t work well yet.😇 I care of how to write to see codes clearly. but it hard for me.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/GQ7NT3h1fo">pic.twitter.com/GQ7NT3h1fo</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1488902958406201347?ref_src=twsrc%5Etfw">February 2, 2022</a></blockquote> 
+
+**reference link**
+
+[チーム開発を変える「GitHub」とは？〜Issuesの使い方〜【連載第3回】](https://seleck.cc/647)
+
+I used this feather first.
+
+[【python】File "<stdin>", line 1のエラーの解決法](https://qiita.com/yassanabc/items/00e21bf8a9d2f411d413)
+
+anything I should search then I struggled 5 minute.
+
+[聖遺物](https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9)
+
+</br></br></br>
+
+---
