@@ -270,3 +270,11 @@ anything I should search then I struggled 5 minute.
 </br></br></br>
 
 ---
+
+## Day 14: Thursday 5, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">day:14<br>today I write shannon fano encoding(doesn&#39;t move well) in python. I am not good at writing like algorithm... Does it become familiar for me writing some times?<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/jsDdzeue06">pic.twitter.com/jsDdzeue06</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1489982879677386752?ref_src=twsrc%5Etfw">February 5, 2022</a></blockquote> 
+
+
+</br></br></br>
+
+---
