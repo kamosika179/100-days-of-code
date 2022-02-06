@@ -278,3 +278,13 @@ anything I should search then I struggled 5 minute.
 </br></br></br>
 
 ---
+
+## Day 15: Sunday 6, 2022
+
+**Tweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">day:15<br>today, I did continuation yesterday. I wonder I did well than yesterday! <br>I feel considering variable scope is important... it trouble me. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1490364731978248195?ref_src=twsrc%5Etfw">February 6, 2022</a></blockquote> 
+
+</br></br></br>
+
+---
