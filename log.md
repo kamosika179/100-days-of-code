@@ -288,3 +288,14 @@ anything I should search then I struggled 5 minute.
 </br></br></br>
 
 ---
+
+# MARCH
+
+## Day 16, Saturday 12, 2022
+
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day16:<br>I too much had skipped programming practice.<br>well, many things happened. it took one month that I get back motivation...<br>I will make effort again from today!<br>today I change the code in order to read more easily for present me.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a> <a href="https://t.co/IijGCMQOX3">pic.twitter.com/IijGCMQOX3</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1502635182632824834?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote> 
+
+I too much had skipped programming practice.
+サボりすぎ
+</br></br></br>
