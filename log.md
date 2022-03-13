@@ -299,3 +299,16 @@ anything I should search then I struggled 5 minute.
 I too much had skipped programming practice.
 サボりすぎ
 </br></br></br>
+
+## Day 17, Sunday 13, 2022
+
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:17<br>I tweak the code adding yesterday.<br>but my motivation to this code is decreasing... <br>Because I didn&#39;t have concrete idea then I can&#39;t image what should I do next.<br>I learned that before starting coding, having concrete image is important.😇 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1502967884452012032?ref_src=twsrc%5Etfw">March 13, 2022</a></blockquote> 
+
+**reference link**
+[Pythonのfor文でインデックスを同時に参照する：enumerate()](https://uxmilk.jp/8680)
+
+
+
+
+</br></br></br>
