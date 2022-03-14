@@ -312,3 +312,14 @@ I too much had skipped programming practice.
 
 
 </br></br></br>
+
+
+## Day 18, Monday 14, 2022
+
+**Tweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day18<br>Based on yesterday result,I wrote concrete concepts of application before coding! ✌️<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/GAhX15LvGV">pic.twitter.com/GAhX15LvGV</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1503396193899986946?ref_src=twsrc%5Etfw">March 14, 2022</a></blockquote> 
+
+
+
+</br></br></br>
