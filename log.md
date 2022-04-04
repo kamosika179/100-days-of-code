@@ -323,3 +323,21 @@ I too much had skipped programming practice.
 
 
 </br></br></br>
+
+
+# April
+
+## Day 19, Monday 4, 2022
+
+**Tweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day19:<br>I consider that concrete image of application I want to crate!<br>Next time, I want to write code that realize the application!<br>Well, even though first idea is always wrong… <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/KtrD5ito3d">pic.twitter.com/KtrD5ito3d</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1510968530648580100?ref_src=twsrc%5Etfw">April 4, 2022</a></blockquote> 
+
+
+**reference link**
+
+[Genshin impact Energy](https://genshin-impact.fandom.com/wiki/Energy#Particles_Generated_by_Elemental_Skills)
+
+</br></br></br>
+
+
