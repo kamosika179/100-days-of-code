@@ -341,3 +341,12 @@ I too much had skipped programming practice.
 </br></br></br>
 
 
+## Day 20, Wednesday 6, 2022
+
+**Tweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day20:<br>I placed UI component with referencing to notes written in day19. <br>next time, I want to write code showing selected character image and their status in UI component!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/0ZA3ibwTTf">pic.twitter.com/0ZA3ibwTTf</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1511673849422954496?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> 
+
+</br></br></br>
+
+
