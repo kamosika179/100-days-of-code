@@ -350,3 +350,17 @@ I too much had skipped programming practice.
 </br></br></br>
 
 
+## Day 21, Friday 9, 2022
+
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:21<br>Regarding coding: I forget the purpose of code I wrote by ditching coding for even 2 days(´･ω･`)...<br>next time, I want to write code about reading files including information written by json or something and using it. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/F0sP4yAkW3">pic.twitter.com/F0sP4yAkW3</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1512683529565765632?ref_src=twsrc%5Etfw">April 9, 2022</a></blockquote> 
+
+**reference link**
+
+[ C# によるプログラミング入門  [構造化] 可変長引数](https://ufcpp.net/study/csharp/sp_params.html)
+
+[[Unity] Canvasに Image 画像を配置しScriptで変更](https://uni.gas.mixh.jp/unity/canvas-text-image.html)
+
+[【Unity】子オブジェクトを取得する４つの方法
+](https://zenn.dev/daichi_gamedev/articles/b901ca3a1b4391)
+
