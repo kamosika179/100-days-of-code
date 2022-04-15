@@ -364,3 +364,24 @@ I too much had skipped programming practice.
 [【Unity】子オブジェクトを取得する４つの方法
 ](https://zenn.dev/daichi_gamedev/articles/b901ca3a1b4391)
 
+</br></br></br>
+
+## Day 21, Friday 22, 2022
+
+
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:22<br>I need to learn Swift for writing iOS apps.<br>Then I read Swift tutorial page.<br>I understood that type and variable and some method for manipulating string variable in Swift😎<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1514780560111333377?ref_src=twsrc%5Etfw">April 15, 2022</a></blockquote>
+
+**refetence link**
+
+[はじめての Swift プログラム](https://softmoco.com/swift-basics/swift-first-program.php)
+
+[Swift のコメント](https://softmoco.com/swift-basics/swift-comment.php)
+
+[Swift の変数](https://softmoco.com/swift-basics/swift-variable.php)
+
+[Swift の基本のデータ型](https://softmoco.com/swift-basics/swift-basic-data-type.php)
+
+[Swift の String（文字列）](https://softmoco.com/swift-basics/swift-string.php)
+
+</br></br></br>
