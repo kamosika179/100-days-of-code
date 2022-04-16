@@ -385,3 +385,15 @@ I too much had skipped programming practice.
 [Swift の String（文字列）](https://softmoco.com/swift-basics/swift-string.php)
 
 </br></br></br>
+
+## Day 22, Saturday 23, 2022
+
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day23:<br>today I learn how to use operator and Array in Swift!<br>I wonder range operator is interesting!<br>tomorrow I continually learn Swift.😎<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1515259925848801281?ref_src=twsrc%5Etfw">April 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**refetence link**
+
+[Swift の演算子](https://softmoco.com/swift-basics/swift-operator.php)
+[SwiftのArray(配列)-要素の変更・追加](https://softmoco.com/swift-basics/swift-array-modify-add.php)
+
+</br><br><br>
