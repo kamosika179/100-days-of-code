@@ -366,7 +366,7 @@ I too much had skipped programming practice.
 
 </br></br></br>
 
-## Day 21, Friday 22, 2022
+## Day 22, Friday 15, 2022
 
 
 **Tweet**
@@ -386,7 +386,7 @@ I too much had skipped programming practice.
 
 </br></br></br>
 
-## Day 22, Saturday 23, 2022
+## Day 23, Saturday 16, 2022
 
 **Tweet**
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day23:<br>today I learn how to use operator and Array in Swift!<br>I wonder range operator is interesting!<br>tomorrow I continually learn Swift.😎<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1515259925848801281?ref_src=twsrc%5Etfw">April 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -395,5 +395,18 @@ I too much had skipped programming practice.
 
 [Swift の演算子](https://softmoco.com/swift-basics/swift-operator.php)
 [SwiftのArray(配列)-要素の変更・追加](https://softmoco.com/swift-basics/swift-array-modify-add.php)
+
+</br><br><br>
+
+
+## Day 24, Tuesday 19, 2022
+
+**Tweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day24:<br>I learned the way of Array manipulation in Swift!<br>the tutorial web site which I&#39;m seeing is not teaching in order.<br>so I did&#39;t understand how to use like map() function and optional type.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1516229262185201667?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote> 
+
+**refetence link**
+
+(Swift の Array（配列）)[https://softmoco.com/swift-basics/swift-array.php]
 
 </br><br><br>
