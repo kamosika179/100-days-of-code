@@ -410,3 +410,25 @@ I too much had skipped programming practice.
 (Swift の Array（配列）)[https://softmoco.com/swift-basics/swift-array.php]
 
 </br><br><br>
+
+## Day 25, Wednesday 20, 2022
+
+**Tweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day25:<br>I learned Set,Dictionary,Tuple and if , switch ,for in Swift!<br>I&#39;m interested in &quot;for + where&quot; and &quot;ternary operator&quot;syntax!<br>it&#39;s look like useful!💪<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1516568574189801472?ref_src=twsrc%5Etfw">April 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**refetence link**
+(Swift の Set（セット）)[https://softmoco.com/swift-basics/swift-set.php]
+
+(Swift の Dictionary（辞書）)[https://softmoco.com/swift-basics/swift-dictionary.php]
+
+(Swift の Tuple（タプル）)[https://softmoco.com/swift-basics/swift-tuple.php]
+
+(Swift の if 文)[https://softmoco.com/swift-basics/swift-if.php]
+
+(Swift の switch 文)[https://softmoco.com/swift-basics/swift-switch.php]
+
+(Swift の for ループ)[https://softmoco.com/swift-basics/swift-for.php]
+
+
+</br><br><br>
