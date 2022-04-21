@@ -432,3 +432,15 @@ I too much had skipped programming practice.
 
 
 </br><br><br>
+
+## Day 26, Thursday 21, 2022
+
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day26:<br>I learn Optional type and how to define function in Swift!<br>finally I understand meaning of &quot;??&quot; operator😎<br>I wonder Optional type isn&#39;t familiar in another language so I may need care it when using Swift.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1516947587068497920?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**refetence link**
+[Swift の Optional](https://softmoco.com/swift-basics/swift-optional.php)
+
+[Swift の関数](https://softmoco.com/swift-basics/swift-function.php)
+
+</br><br><br>
