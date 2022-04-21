@@ -415,20 +415,20 @@ I too much had skipped programming practice.
 
 **Tweet**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day25:<br>I learned Set,Dictionary,Tuple and if , switch ,for in Swift!<br>I&#39;m interested in &quot;for + where&quot; and &quot;ternary operator&quot;syntax!<br>it&#39;s look like useful!💪<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1516568574189801472?ref_src=twsrc%5Etfw">April 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day25:<br>I learned Set,Dictionary,Tuple and if , switch ,for in Swift!<br>I&#39;m interested in &quot;for + where&quot; and &quot;ternary operator&quot;syntax!<br>it&#39;s look like useful!💪<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1516568574189801472?ref_src=twsrc%5Etfw">April 20, 2022</a></blockquote> 
 
 **refetence link**
-(Swift の Set（セット）)[https://softmoco.com/swift-basics/swift-set.php]
+<https://softmoco.com/swift-basics/swift-set.php>
 
-(Swift の Dictionary（辞書）)[https://softmoco.com/swift-basics/swift-dictionary.php]
+<https://softmoco.com/swift-basics/swift-dictionary.php>
 
-(Swift の Tuple（タプル）)[https://softmoco.com/swift-basics/swift-tuple.php]
+<https://softmoco.com/swift-basics/swift-tuple.php>
 
-(Swift の if 文)[https://softmoco.com/swift-basics/swift-if.php]
+<https://softmoco.com/swift-basics/swift-if.php>
 
-(Swift の switch 文)[https://softmoco.com/swift-basics/swift-switch.php]
+<https://softmoco.com/swift-basics/swift-switch.php>
 
-(Swift の for ループ)[https://softmoco.com/swift-basics/swift-for.php]
+<https://softmoco.com/swift-basics/swift-for.php>
 
 
 </br><br><br>
@@ -436,9 +436,10 @@ I too much had skipped programming practice.
 ## Day 26, Thursday 21, 2022
 
 **Tweet**
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day26:<br>I learn Optional type and how to define function in Swift!<br>finally I understand meaning of &quot;??&quot; operator😎<br>I wonder Optional type isn&#39;t familiar in another language so I may need care it when using Swift.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1516947587068497920?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day26:<br>I learn Optional type and how to define function in Swift!<br>finally I understand meaning of &quot;??&quot; operator😎<br>I wonder Optional type isn&#39;t familiar in another language so I may need care it when using Swift.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1516947587068497920?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> 
 
 **refetence link**
+
 [Swift の Optional](https://softmoco.com/swift-basics/swift-optional.php)
 
 [Swift の関数](https://softmoco.com/swift-basics/swift-function.php)
