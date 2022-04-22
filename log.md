@@ -445,3 +445,19 @@ I too much had skipped programming practice.
 [Swift の関数](https://softmoco.com/swift-basics/swift-function.php)
 
 </br><br><br>
+
+
+## Day 27, Friday 22, 2022
+
+**Tweet**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:27<br>I have learned the basic of Swift yesterday. then I started SwiftUI tutorial today.<br>but there are syntax which I haven&#39;t seen...I knew it...<br>and the tutorial is written in English. it also makes me confusing.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/KYKGoiCEWe">pic.twitter.com/KYKGoiCEWe</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1517332187108220928?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> 
+
+**refetence link**
+
+[【Xcode】超初心者のためのSwiftUIチュートリアル1](https://note.com/nyakko/n/n7096926a5c95)
+this article is that official swiftUI tutorial is translated and adding some discription in Japanese.
+maybe, I should read this one instead of official tutorial because the problem of time and my English skill. 
+
+[official SwiftUI tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+
+I need more time...
