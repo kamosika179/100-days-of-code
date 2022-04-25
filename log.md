@@ -461,3 +461,15 @@ maybe, I should read this one instead of official tutorial because the problem o
 [official SwiftUI tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 
 I need more time...
+
+</br><br><br>
+
+
+## Day 28, Monday 25, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day28:<br>today I Studied about extension, protocol, type property, mutating, setter getter in Swift.<br>maybe I understand it almost.<br>and reading kindle book, studying element of SwiftUI.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/6ZyJ8GolBa">pic.twitter.com/6ZyJ8GolBa</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1518517740327215104?ref_src=twsrc%5Etfw">April 25, 2022</a></blockquote> 
+
+**refetence link**
+
+[SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
