@@ -473,3 +473,16 @@ I need more time...
 
 [SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+
+</br><br><br>
+
+
+## Day 29, Tuesday 26, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day29:<br>I learned how to show image and text,<br>the using way of VStack ZStack HStack.<br><br>I am becoming to able to use the picture which I want to show. it is so fun!!<br>Not only a staring a game with code, it is fun that I can check my code using the aspect of Image!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/Bhn4bDd538">pic.twitter.com/Bhn4bDd538</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1518743293252685826?ref_src=twsrc%5Etfw">April 26, 2022</a></blockquote> 
+
+**refetence link**
+
+[SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+
