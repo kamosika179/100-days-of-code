@@ -486,3 +486,15 @@ I need more time...
 [SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 
+
+</br><br><br>
+
+
+## Day 30, Wednesday 27, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:30<br>I learned how to use that TextField, Picker and State property!!<br>it is fun that making interactive view!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/tTbAkwV37z">pic.twitter.com/tTbAkwV37z</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1519278020812767233?ref_src=twsrc%5Etfw">April 27, 2022</a></blockquote> 
+
+**refetence link**
+
+[SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
