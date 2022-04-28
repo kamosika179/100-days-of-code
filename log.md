@@ -498,3 +498,15 @@ I need more time...
 
 [SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+
+</br><br><br>
+
+
+## Day 31, Thursday 28, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:31<br>Today I learned how to create multi view apps.(NavigationView,NavigationLink)<br>I wonder it is useful but I want to know another way of able this.🧐<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/9diupnS1ld">pic.twitter.com/9diupnS1ld</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1519569590128635904?ref_src=twsrc%5Etfw">April 28, 2022</a></blockquote> 
+
+**refetence link**
+
+[SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
