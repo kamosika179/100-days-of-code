@@ -510,3 +510,17 @@ I need more time...
 
 [SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+
+</br><br><br>
+
+
+## Day 32, Friday 29, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day32:<br>I learned ForEach and View and NavigationView etc in SwiftUI.<br>I wonder it methods may is so useful making various apps! <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/tY0egDBl4P">pic.twitter.com/tY0egDBl4P</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1520011211060187138?ref_src=twsrc%5Etfw">April 29, 2022</a></blockquote> 
+
+**refetence link**
+
+[SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+
+</br><br><br>
