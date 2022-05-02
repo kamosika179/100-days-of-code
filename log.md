@@ -534,4 +534,14 @@ I need more time...
 
 [SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+</br><br><br>
 
+# May
+
+## Day 34, Monday 1, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day34:<br>I rested yesterday.(but I read continuation from last time a little).<br>and I read all of the book finally! (however I thought existing parts I can&#39;t understand than I expected)<br>I&#39;m so glad to realize the possibility of SwiftUI!😎<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1520917044325421057?ref_src=twsrc%5Etfw">May 2, 2022</a></blockquote> 
+
+**refetence link**
+
+[SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
