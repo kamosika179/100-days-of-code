@@ -538,10 +538,20 @@ I need more time...
 
 # May
 
-## Day 34, Monday 1, 2022
+## Day 34, Monday 2, 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day34:<br>I rested yesterday.(but I read continuation from last time a little).<br>and I read all of the book finally! (however I thought existing parts I can&#39;t understand than I expected)<br>I&#39;m so glad to realize the possibility of SwiftUI!😎<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1520917044325421057?ref_src=twsrc%5Etfw">May 2, 2022</a></blockquote> 
 
 **refetence link**
 
 [SwiftUIではじめるiPhoneアプリプログラミング入門 ](https://www.amazon.co.jp/dp/B089PTLB51/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+
+
+## Day 35, Wednesday 4, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day35:<br>I searched how to use DB. Because I want to create iOS apps which communicating other mobile.<br>Apparently it is able to realized using node.js(maybe?)<br>if you know how to create online apps which like some SNS or tutorial, please tell me!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1521795028884275203?ref_src=twsrc%5Etfw">May 4, 2022</a></blockquote> 
+
+**refetence link**
+
+[小学生でもわかるWebAPI入門。ゼロからWebAPIを作ってみよう](https://www.youtube.com/watch?v=6_zIN-bByB4)
