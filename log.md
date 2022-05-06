@@ -555,3 +555,13 @@ I need more time...
 **refetence link**
 
 [小学生でもわかるWebAPI入門。ゼロからWebAPIを作ってみよう](https://www.youtube.com/watch?v=6_zIN-bByB4)
+
+## Day 36, Friday 6, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day36:<br>I started learning node.js for using db!<br>I read the tutorial books in kindle unlimited but I stuck by installing &quot;node install -g nodemon&quot; for a while.<br>the problem is solved by looking back path configuration.❤️‍🔥<br>A trouble ALWAYS occurs.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1522528359422447616?ref_src=twsrc%5Etfw">May 6, 2022</a></blockquote> 
+
+**refetence link**
+
+[macOSのnpmでグローバルインストールに失敗する](https://qiita.com/homelan/items/dc695aa22a9763f9f98f)
+
+[はじめてつくるバックエンドサーバー基礎編（Node.js & Express）](https://www.amazon.co.jp/gp/product/B09HQZ1BW8/ref=kinw_myk_ro_title)
