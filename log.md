@@ -565,3 +565,11 @@ I need more time...
 [macOSのnpmでグローバルインストールに失敗する](https://qiita.com/homelan/items/dc695aa22a9763f9f98f)
 
 [はじめてつくるバックエンドサーバー基礎編（Node.js & Express）](https://www.amazon.co.jp/gp/product/B09HQZ1BW8/ref=kinw_myk_ro_title)
+
+## Day 37, Saturday 7, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day37:<br>Today I learned how to use post and get in node.js and express! and deployed these file in heroku!<br>I understand the elemental method of node.js and express but I don&#39;t know anything about heroku.<br>I will learn heroku someday! it is looks so funny<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/qvrFx5TlSO">pic.twitter.com/qvrFx5TlSO</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1522786816168185856?ref_src=twsrc%5Etfw">May 7, 2022</a></blockquote> 
+
+**refetence link**
+
+[はじめてつくるバックエンドサーバー基礎編（Node.js & Express）](https://www.amazon.co.jp/gp/product/B09HQZ1BW8/ref=kinw_myk_ro_title)
