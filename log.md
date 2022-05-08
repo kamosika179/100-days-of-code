@@ -573,3 +573,11 @@ I need more time...
 **refetence link**
 
 [はじめてつくるバックエンドサーバー基礎編（Node.js & Express）](https://www.amazon.co.jp/gp/product/B09HQZ1BW8/ref=kinw_myk_ro_title)
+
+## Day 38, Sunday 8, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day38:<br>I did my homework which using scikit-learn and read Sequel to the book I read yesterday.<br>Because I haven&#39;t used scikit-learn ever. the homework takes me many times than I expected.💦<br>and I first knew Document-Oriented Database.<br>mongodb... it looks funny!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1523262337192390657?ref_src=twsrc%5Etfw">May 8, 2022</a></blockquote> 
+
+**refetence link**
+
+[はじめてつくるバックエンドサーバー発展編（Node.js & Express & MongoDB）](https://www.amazon.co.jp/gp/product/B09X56PSCQ/)
