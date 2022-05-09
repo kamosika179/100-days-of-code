@@ -581,3 +581,11 @@ I need more time...
 **refetence link**
 
 [はじめてつくるバックエンドサーバー発展編（Node.js & Express & MongoDB）](https://www.amazon.co.jp/gp/product/B09X56PSCQ/)
+
+## Day 39, Monday 9, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day39:<br>I learned how to use mongodb atlas from a book which I&#39;m reading from yesterday! this service looks so interesting! (and existing free version is also good for poor student!)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/SIATulaSyz">pic.twitter.com/SIATulaSyz</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1523621504155787265?ref_src=twsrc%5Etfw">May 9, 2022</a></blockquote> 
+
+**refetence link**
+
+[はじめてつくるバックエンドサーバー発展編（Node.js & Express & MongoDB）](https://www.amazon.co.jp/gp/product/B09X56PSCQ/)
