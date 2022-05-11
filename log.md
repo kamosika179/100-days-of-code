@@ -589,3 +589,12 @@ I need more time...
 **refetence link**
 
 [はじめてつくるバックエンドサーバー発展編（Node.js & Express & MongoDB）](https://www.amazon.co.jp/gp/product/B09X56PSCQ/)
+
+
+
+## Day 40, Wednesday 11, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day40:<br>I learned how to use ejs.<br>I didn&#39;t know this but it looks like php? I don&#39;t understand this role yet.<br>the books I&#39;m reading is written &quot;how to create some app&quot; then I wonder description of code syntax is less.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1524198941692076032?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> 
+
+**refetence link**
+
+[はじめてつくるバックエンドサーバー発展編（Node.js & Express & MongoDB）](https://www.amazon.co.jp/gp/product/B09X56PSCQ/)
