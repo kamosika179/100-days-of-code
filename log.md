@@ -606,3 +606,10 @@ I need more time...
 **refetence link**
 
 [急にwindows pcからvscodeのremote sshを利用してラズパイに接続できなくなって困った](https://www.forrexlapis.win/posts/2022-05-14-%E6%80%A5%E3%81%ABwindows-pc%E3%81%8B%E3%82%89vscode%E3%81%AEremote-ssh%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%83%A9%E3%82%BA%E3%83%91%E3%82%A4%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E5%9B%B0%E3%81%A3%E3%81%9F/)
+
+## Day 42, Sunday 15, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day42:<br>I was reading the book which explain how to create login and account create system in node.js and express today.<br>but this book is not explaining detail syntax and I couldn&#39;t understand these well...<br>anyway I felt login system&#39;s atmosphere! that&#39;s good.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1525814920507695105?ref_src=twsrc%5Etfw">May 15, 2022</a></blockquote> 
+
+**refetence link**
+
+[はじめてつくるバックエンドサーバー発展編（Node.js & Express & MongoDB）](https://www.amazon.co.jp/gp/product/B09X56PSCQ/)
