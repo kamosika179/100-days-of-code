@@ -613,3 +613,12 @@ I need more time...
 **refetence link**
 
 [はじめてつくるバックエンドサーバー発展編（Node.js & Express & MongoDB）](https://www.amazon.co.jp/gp/product/B09X56PSCQ/)
+
+## Day 43, Monday 16, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day43:<br>Today I fixed views in order to show text elements of List from left in SwiftUI! <br>ZStack setting was important! not text setting in list.🤩<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/2ccXy54zRZ">pic.twitter.com/2ccXy54zRZ</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1526396881508519938?ref_src=twsrc%5Etfw">May 17, 2022</a></blockquote>
+
+**refetence link**
+
+[[SwiftUI] ZStackの配置、余白、背景色等の設定
+](https://swiftui.i-app-tec.com/ios/zstack.html)
+
