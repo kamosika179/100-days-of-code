@@ -622,3 +622,8 @@ I need more time...
 [[SwiftUI] ZStackの配置、余白、背景色等の設定
 ](https://swiftui.i-app-tec.com/ios/zstack.html)
 
+## Day 44, Thursday 19, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day44:<br>I searched how to use TabView and tried it!<br>it looks so cool! I was surprised that I can use this easily than I expected!<br>and I searched about realm for containing data.<br>I don&#39;t understand it so I will search and try it more tomorrow!😎<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/qAB6qH1af4">pic.twitter.com/qAB6qH1af4</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1527245307498487809?ref_src=twsrc%5Etfw">May 19, 2022</a></blockquote> 
+
+**refetence link**
