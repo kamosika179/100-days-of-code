@@ -627,3 +627,19 @@ I need more time...
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day44:<br>I searched how to use TabView and tried it!<br>it looks so cool! I was surprised that I can use this easily than I expected!<br>and I searched about realm for containing data.<br>I don&#39;t understand it so I will search and try it more tomorrow!😎<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/qAB6qH1af4">pic.twitter.com/qAB6qH1af4</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1527245307498487809?ref_src=twsrc%5Etfw">May 19, 2022</a></blockquote> 
 
 **refetence link**
+
+## Day 45, Monday 23, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day45:<br>I ditched 2 days! because of spring fever!!<br>I watched several movie about tutorial of realm in SwiftUI. but I did&#39;t understand these at all!!<br>I think It reason must be lack of information of this in Japanese!<br>I feel hard importance of learning English...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1528717041934675974?ref_src=twsrc%5Etfw">May 23, 2022</a></blockquote> 
+
+**refetence link**
+
+[From Zero-to-Mobile App in Minutes with Realm
+](https://www.youtube.com/watch?v=dqpNiEpNXww)
+
+maybe this tutorial is easest 
+
+[Combine-ing MongoDB Realm with SwiftUI](https://www.youtube.com/watch?v=XmerMABMdB0)
+
+[Realmというデータベースを使ってTodoリストを作ってみた😋　Part２
+](https://www.youtube.com/watch?v=GckrVEMior4&t=0s)
+
