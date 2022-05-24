@@ -643,3 +643,13 @@ maybe this tutorial is easest
 [Realmというデータベースを使ってTodoリストを作ってみた😋　Part２
 ](https://www.youtube.com/watch?v=GckrVEMior4&t=0s)
 
+
+## Day 46, Tuesday 24, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day46:<br>I was watching realm and swiftUI tutorial and copying it.<br>There is many function and syntax I did&#39;t understand.<br>but anyway! maybe the more copying it the more understanding it structure!<br>if I meet these the function I didn&#39;t know, I will searching it!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1528900472966631424?ref_src=twsrc%5Etfw">May 24, 2022</a></blockquote> 
+
+
+
+**refetence link**
+
+[Swift5.5で追加された「async/await」を体験して理解を深めよう](https://ticklecode.com/asyncawait/)
+in tutorial video. appering "Task". I did't know that and searching it. (I havent't read yet)
