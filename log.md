@@ -649,7 +649,21 @@ maybe this tutorial is easest
 
 
 
-**refetence link**
+**reference link**
+
+[From Zero to Mobile Developer in 40 Minutes with Realm and SwiftUI](https://www.youtube.com/watch?v=lSp95xkvo1U)
+
+I watched 16:53!
+
+I decided following this tutorial.
+....hoenstory I met trouble this time. this cause of setting of mongodb atlas realm
+I changed realm setting to "debelopper"? (I forget I forget which item of realm setting....) 
+
+[【SwiftUI】ProgressView（UIActivityIndicator）の使い方【Xcode12&iOS14】](https://www.yururiwork.net/archives/1109)
+
+[【SwiftUI】SwiftUIでハマったところ(onAppaerが呼ばれるタイミング/environmentの伝播の範囲)](https://inon29.hateblo.jp/entry/2020/03/21/112937)
+
+[【SwiftUI】シートの使い方（sheet）](https://capibara1969.com/2521/)
 
 [Swift5.5で追加された「async/await」を体験して理解を深めよう](https://ticklecode.com/asyncawait/)
 in tutorial video. appering "Task". I did't know that and searching it. (I havent't read yet)
