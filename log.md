@@ -667,3 +667,13 @@ I changed realm setting to "debelopper"? (I forget I forget which item of realm 
 
 [Swift5.5で追加された「async/await」を体験して理解を深めよう](https://ticklecode.com/asyncawait/)
 in tutorial video. appering "Task". I did't know that and searching it. (I havent't read yet)
+
+
+## Day 46, Tuesday 24, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day47:<br>Continue on from yesterday, I watched tutorial video about realm in SwiftUI.<br><br>I DID&#39;T UNDERSTAND ANYTHING!!<br>but this time my target is &quot;anyway copying it!(even if I did&#39;t understand)&quot;<br><br>I will do it continuously...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1529357092049457152?ref_src=twsrc%5Etfw">May 25, 2022</a></blockquote>
+
+**reference link**
+[From Zero to Mobile Developer in 40 Minutes with Realm and SwiftUI](https://www.youtube.com/watch?v=lSp95xkvo1U)
+
+I watched 27:55!
+but many syntax which I can't understand exist! don't forget to check it!
