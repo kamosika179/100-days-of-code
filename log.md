@@ -669,11 +669,23 @@ I changed realm setting to "debelopper"? (I forget I forget which item of realm 
 in tutorial video. appering "Task". I did't know that and searching it. (I havent't read yet)
 
 
-## Day 46, Tuesday 24, 2022
+## Day 47, Wednesday 25, 2022
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day47:<br>Continue on from yesterday, I watched tutorial video about realm in SwiftUI.<br><br>I DID&#39;T UNDERSTAND ANYTHING!!<br>but this time my target is &quot;anyway copying it!(even if I did&#39;t understand)&quot;<br><br>I will do it continuously...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1529357092049457152?ref_src=twsrc%5Etfw">May 25, 2022</a></blockquote>
 
 **reference link**
+
 [From Zero to Mobile Developer in 40 Minutes with Realm and SwiftUI](https://www.youtube.com/watch?v=lSp95xkvo1U)
 
 I watched 27:55!
 but many syntax which I can't understand exist! don't forget to check it!
+
+## Day 48, Sunday 29, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day48：<br>I read reference of realm in swiftUI!<br>I didn&#39;t understand it yet, but I could delete data from realm db.💪<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1530921268400521216?ref_src=twsrc%5Etfw">May 29, 2022</a></blockquote>
+
+**reference link**
+
+[Realm Database with SwiftUI QuickStart](https://www.mongodb.com/docs/realm/sdk/swift/swiftui/#authenticate-users-with-mongodb-realm)
+
+[Why Use Realm](https://www.mongodb.com/docs/realm-sdks/swift/latest/index.html)
+
+
