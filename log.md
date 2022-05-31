@@ -688,4 +688,13 @@ but many syntax which I can't understand exist! don't forget to check it!
 
 [Why Use Realm](https://www.mongodb.com/docs/realm-sdks/swift/latest/index.html)
 
+## Day 49, Tuesday 31, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day49:<br>Today I created todo app to understand the way of use realm in SwiftUI!<br>I can add system of &quot;add todo&quot; and &quot;delete todo&quot;!<br>I feel I&#39;m becoming well at realm little!<br>tomorrow I want to add system of &quot;change added todo&quot;<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/l5OmIHxwDR">pic.twitter.com/l5OmIHxwDR</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1531431092502544384?ref_src=twsrc%5Etfw">May 31, 2022</a></blockquote>
 
+**reference link**
+
+[SwiftUIのToggleのisOnに指定するBool値になぜドルマーク$を付けなければいけないのかがわからない](https://ja.stackoverflow.com/questions/62443/swiftui%e3%81%aetoggle%e3%81%aeison%e3%81%ab%e6%8c%87%e5%ae%9a%e3%81%99%e3%82%8bbool%e5%80%a4%e3%81%ab%e3%81%aa%e3%81%9c%e3%83%89%e3%83%ab%e3%83%9e%e3%83%bc%e3%82%af%e3%82%92%e4%bb%98%e3%81%91%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%81%ae%e3%81%8b%e3%81%8c%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84)
+
+[Realm Database with SwiftUI QuickStart](https://www.mongodb.com/docs/realm/sdk/swift/swiftui)
+
+> we pass the remove and move methods of the Realm List as the handlers of the respective remove and move events of the SwiftUI List. Thanks to the @ObservedRealmObject property wrapper, we can use these methods without explicitly opening a write transaction. The property wrapper automatically opens a write transaction as needed.どうやら、ObservedResultsとかを使うといい感じに変換してくれるので、特に特殊なメソットとかは考えずに、普通にSwiftのRealmのものを使ってもいいっこと？多分
