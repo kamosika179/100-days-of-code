@@ -698,3 +698,22 @@ but many syntax which I can't understand exist! don't forget to check it!
 [Realm Database with SwiftUI QuickStart](https://www.mongodb.com/docs/realm/sdk/swift/swiftui)
 
 > we pass the remove and move methods of the Realm List as the handlers of the respective remove and move events of the SwiftUI List. Thanks to the @ObservedRealmObject property wrapper, we can use these methods without explicitly opening a write transaction. The property wrapper automatically opens a write transaction as needed.どうやら、ObservedResultsとかを使うといい感じに変換してくれるので、特に特殊なメソットとかは考えずに、普通にSwiftのRealmのものを使ってもいいっこと？多分
+
+# June
+
+## Day 50, Wednesday 1, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day50:<br>I challenged add function of &quot;fix todo added in list&quot; with swiftUI and realm but wasn&#39;t good.<br>and I didn&#39;t understand how to change view while holding value well...<br>I didn&#39;t progress well. but level of understanding of these rose.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1531984432365998081?ref_src=twsrc%5Etfw">June 1, 2022</a></blockquote> 
+
+**reference link**
+
+[SwiftUI ContextMenu navigation to another view](https://stackoverflow.com/questions/58271509/swiftui-contextmenu-navigation-to-another-view)
+
+if you want to use navigationlink in contextmenum, it is usefull may.
+
+[【SwiftUI】NavigationLinkで画面遷移を実装する方法を解説](https://hirauchi-genta.com/swift-swiftui-navigationlink/)
+
+how to make invisivle navigationlink
+
+[\[Realm\]\[Swift4対応 完全保存版\] 4.クエリによるデータの取得](http://swift.hiros-dot.net/?p=632)
+
+I don't understand how to use CbservedResults between views...
