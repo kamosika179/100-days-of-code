@@ -717,3 +717,29 @@ how to make invisivle navigationlink
 [\[Realm\]\[Swift4対応 完全保存版\] 4.クエリによるデータの取得](http://swift.hiros-dot.net/?p=632)
 
 I don't understand how to use CbservedResults between views...
+
+
+
+## Day 51, Friday 3, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day51:<br>I could add &quot;updating todo&quot; function!<br>but many times trouble attack to me!<br>first, when I use git, definitely many troubles occurred because of my poor understanding...<br>and today I could notice exist of realm frozen object.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/HQdkC7GYrB">pic.twitter.com/HQdkC7GYrB</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1532713547855036416?ref_src=twsrc%5Etfw">June 3, 2022</a></blockquote> 
+
+today's reference link exist so many!
+
+**reference link**
+
+[Threading - Swift SDK](https://www.mongodb.com/docs/realm/sdk/swift/advanced-guides/threading/#frozen-objects)
+
+Understanding frozen object is sooo important! you can't update data at @ObservedObject. You may resolve this problem using thaw() method. you could see this in my realmtodoprictice apps .
+
+[SwiftUIでのRealmの使い方まとめ（プロパティラッパー、フェッチ、プレビュー、etc.）](https://zenn.dev/harumaru/articles/14efbd79649454)
+
+[[SwiftUI][Realm][Xcode12] Realm を使ったアプリの開発方法（その４: List 表示している要素を修正する）](https://software.small-desk.com/development/2020/10/06/swiftuirealmxcode12-realm-edit-listitem/)
+
+I did't these way in today but I wonder this way is useful.
+and I think using Asynchronous processing is also effective maybe.
+
+[Frozen Objects](https://www.mongodb.com/developer/products/realm/realm-database-and-frozen-objects/)
+
+[Xcodeのプロジェクトに.gitignoreを追加する。](https://qiita.com/2bo/items/3afcfcb9514bb8cfb9cd)
+
+[.gitignoreを最初に忘れた時の後からのやり方](https://zenn.dev/ianchen0419/articles/cdd7f2e806f54a)
