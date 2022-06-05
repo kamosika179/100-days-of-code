@@ -743,3 +743,18 @@ and I think using Asynchronous processing is also effective maybe.
 [Xcodeのプロジェクトに.gitignoreを追加する。](https://qiita.com/2bo/items/3afcfcb9514bb8cfb9cd)
 
 [.gitignoreを最初に忘れた時の後からのやり方](https://zenn.dev/ianchen0419/articles/cdd7f2e806f54a)
+
+## Day 52, Sunday 5, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day52: Today I created todo app. <br>I could add tentatively function of adding tasks!<br>this is today goal. yeah!<br>(but it takes time more than 2 times than I expected.)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1533347540187238400?ref_src=twsrc%5Etfw">June 5, 2022</a></blockquote> 
+
+**reference link**
+
+[時間・分・秒への変換](https://proglight.jimdofree.com/learning/timeconvert/)
+
+[Realmで配列を扱う！？](https://qiita.com/rei_012/items/df430d228577c041d61d)
+
+I retired using array in realm but it information is useful future...maybe
+
+[【Xcode/Swift】RealmSwiftでエラー：Thread 1: Fatal error: ‘try!’ expression unexpectedly raised an error: Error Domain=io.realm Code=10 “Migration is required due to the following errors:](https://ios-docs.dev/realm-migration/)
+
+it occurs when I change realm data construction. be careful.
