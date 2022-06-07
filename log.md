@@ -758,3 +758,10 @@ I retired using array in realm but it information is useful future...maybe
 [【Xcode/Swift】RealmSwiftでエラー：Thread 1: Fatal error: ‘try!’ expression unexpectedly raised an error: Error Domain=io.realm Code=10 “Migration is required due to the following errors:](https://ios-docs.dev/realm-migration/)
 
 it occurs when I change realm data construction. be careful.
+
+
+## Day 53, tuesday 7, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day53:<br>Today, I used filter in realmSwift.<br>but I had trouble...<br>I use NavigationView and changing view, I pass Object which have persisted protocol.<br>when changed view, passed Object is not selected Object.<br>😅<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1533996126948339713?ref_src=twsrc%5Etfw">June 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**reference link**
+
