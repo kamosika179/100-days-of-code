@@ -761,7 +761,19 @@ it occurs when I change realm data construction. be careful.
 
 
 ## Day 53, tuesday 7, 2022
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day53:<br>Today, I used filter in realmSwift.<br>but I had trouble...<br>I use NavigationView and changing view, I pass Object which have persisted protocol.<br>when changed view, passed Object is not selected Object.<br>😅<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1533996126948339713?ref_src=twsrc%5Etfw">June 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day53:<br>Today, I used filter in realmSwift.<br>but I had trouble...<br>I use NavigationView and changing view, I pass Object which have persisted protocol.<br>when changed view, passed Object is not selected Object.<br>😅<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1533996126948339713?ref_src=twsrc%5Etfw">June 7, 2022</a></blockquote> 
 
 **reference link**
 
+
+## Day 54, Wednesday 8, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day54:<br>Today I wrote code for school assignment!<br>I haven&#39;t finished yet but <br>I learn that the importance write code of small parts. <br>using this method, I can notice what I do and What should I write easily.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1534500728630571013?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote>
+
+
+**reference link**
+
+[各要素の個数（要素ごとの出現回数）をカウント: count()メソッド](https://note.nkmk.me/python-collections-counter/)
+
+[\[Python\] リストの最大値、最小値とそのインデックスを取得する（max, min, index）](https://hibiki-press.tech/python/max_min_index/586)
+
+[ifで条件分岐したリスト内包表記](https://note.nkmk.me/python-list-comprehension/)
