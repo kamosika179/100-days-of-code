@@ -777,3 +777,12 @@ it occurs when I change realm data construction. be careful.
 [\[Python\] リストの最大値、最小値とそのインデックスを取得する（max, min, index）](https://hibiki-press.tech/python/max_min_index/586)
 
 [ifで条件分岐したリスト内包表記](https://note.nkmk.me/python-list-comprehension/)
+
+
+## Day 55, Thuesday 9, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day55:<br>I continued to write code from yesterday.<br>I wonder maybe I am not good at deciding variable name...<br>when I create new variable or variable in for, alway I got stuck and give strange name these.<br>and I finally fixed bugs today! yeah!✌️😎<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1534791069891584001?ref_src=twsrc%5Etfw">June 9, 2022</a></blockquote> 
+
+**reference link**
+
+[【SwiftUI】画面を閉じるdismissとisPresentedについて](https://capibara1969.com/3700/)
