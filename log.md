@@ -786,3 +786,11 @@ it occurs when I change realm data construction. be careful.
 **reference link**
 
 [【SwiftUI】画面を閉じるdismissとisPresentedについて](https://capibara1969.com/3700/)
+
+
+## Day 56, Friday 10, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day56:<br>Today I continued code which school assignments from yesterday~<br>but I am well done it!!<br>it takes less time than I expected!!<br>✌️<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1535135261364957185?ref_src=twsrc%5Etfw">June 10, 2022</a></blockquote> 
+
+**reference link**
+no exists
