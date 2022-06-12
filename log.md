@@ -794,3 +794,13 @@ it occurs when I change realm data construction. be careful.
 
 **reference link**
 no exists
+
+
+## Day 57, Sunday 12, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day57:<br>I wrote time table apps which is school assignment continually. <br>day after day, I also got trouble TODAY! no exception!!<br>today&#39;s error happen because of difference of type!<br>and to resolve this, it takes me about 2 hours...😭<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1535881603871780865?ref_src=twsrc%5Etfw">June 12, 2022</a></blockquote> 
+
+**reference link**
+[三項演算子(中級者以上)](https://ios-docs.dev/if/)
+
+I forget this every time.
