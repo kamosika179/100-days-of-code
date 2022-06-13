@@ -804,3 +804,15 @@ no exists
 [三項演算子(中級者以上)](https://ios-docs.dev/if/)
 
 I forget this every time.
+
+
+
+## Day 58, Monday 13, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day58:<br>I searched how to use YouTube API with python.(reference pages and these package is easy for me!)👍<br>I understand it little. and I could get comments from a video!<br>but I could not familiar pandas <br>(and code of like dictionary control)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1536295740795826176?ref_src=twsrc%5Etfw">June 13, 2022</a></blockquote>
+
+
+**reference link**
+
+Many!!!! reationg youtube api and pandas.
+if you know detail, check your notion.
