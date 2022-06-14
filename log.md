@@ -816,3 +816,10 @@ I forget this every time.
 
 Many!!!! reationg youtube api and pandas.
 if you know detail, check your notion.
+
+
+## Day 59, Tuesday 14, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day60:<br>Today&#39;s done list<br>・trouble shooting (not solved)<br>that&#39;s all...<br>SwiftUI and realm program does not work well...before the program could work...<br>xcode build is success. and appeared simulator work.but preview don&#39;t work.why?<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1536661322058059776?ref_src=twsrc%5Etfw">June 14, 2022</a></blockquote> 
+
+unexpectedly this bugs fixed tomorrow....I hope it .... automatically fixed it!!!
