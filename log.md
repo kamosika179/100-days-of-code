@@ -823,3 +823,12 @@ if you know detail, check your notion.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day60:<br>Today&#39;s done list<br>・trouble shooting (not solved)<br>that&#39;s all...<br>SwiftUI and realm program does not work well...before the program could work...<br>xcode build is success. and appeared simulator work.but preview don&#39;t work.why?<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1536661322058059776?ref_src=twsrc%5Etfw">June 14, 2022</a></blockquote> 
 
 unexpectedly this bugs fixed tomorrow....I hope it .... automatically fixed it!!!
+
+
+
+## Day 60, Wednesday 15, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day60:<br>I wrote school subject code.<br>I haven&#39;t this assignments yet. and today I DIDN&#39;T UNDERSTAND recursive at all!!!!<br>it takes 4~5 hours....<br>but when after this time, I came up with some idea and almost I could done what I wanted. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/aiXUMtWPWT">pic.twitter.com/aiXUMtWPWT</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1537045361399054341?ref_src=twsrc%5Etfw">June 15, 2022</a></blockquote> 
+
+**reference link**
+[sorted(), sort(), max(), min()の引数keyにlambda式](https://note.nkmk.me/python-lambda-usage/)
