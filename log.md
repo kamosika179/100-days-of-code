@@ -832,3 +832,15 @@ unexpectedly this bugs fixed tomorrow....I hope it .... automatically fixed it!!
 
 **reference link**
 [sorted(), sort(), max(), min()の引数keyにlambda式](https://note.nkmk.me/python-lambda-usage/)
+
+
+## Day 61, Thursday 16, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day61:<br>Today I continually wrote code for school assignment from yesterday.<br>today I didn&#39;t have trouble particular and coding relaxing! it is good.<br>when I wrote code, I wonder if I can use parallel processing, I will more various function.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/JfPxeDKC9r">pic.twitter.com/JfPxeDKC9r</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1537239035969540096?ref_src=twsrc%5Etfw">June 16, 2022</a></blockquote> 
+
+**reference link**
+[【Python】timeで経過時間を測定する(perf_counter)](https://pg-chain.com/python-time-perf_counter)
+
+[【Git】リモートからの取得とリモートへの反映で行っていること(fetch,pull,push)](https://qiita.com/forest1/items/db5ac003d310449743ca)
+
+this article easy to understand to me and useful!
