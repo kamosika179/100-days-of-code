@@ -844,3 +844,57 @@ unexpectedly this bugs fixed tomorrow....I hope it .... automatically fixed it!!
 [【Git】リモートからの取得とリモートへの反映で行っていること(fetch,pull,push)](https://qiita.com/forest1/items/db5ac003d310449743ca)
 
 this article easy to understand to me and useful!
+
+
+## Day 62, Friday 17, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day62:<br>I wrote code for iPhone apps! this app is creating as class subject.<br>(that&#39;s why, I don&#39;t upload screenshot or video for this!)<br>I encounter some trouble but in Today! I could solve it almost! yea~<br>and I enjoy coding in today! so good!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1537768529990402048?ref_src=twsrc%5Etfw">June 17, 2022</a></blockquote> 
+
+**reference link**
+many~
+
+[Xcode Preview crashes because of RealmSwift model changes](https://stackoverflow.com/questions/66735100/xcode-preview-crashes-because-of-realmswift-model-changes)
+
+後でためす。うまくいくといいね。めちゃめちゃうまくいった！！！！ありがとう！！！！
+
+GOD!!!!! solved!!!!! you really save me!!!! thank you!!!!!!
+
+[【SwiftUI】TextField付きAlertを表示する](https://www.yururiwork.net/archives/1315)
+
+ummm there are many syntax which I did't know... 
+
+if I want to write easy to see all of code,this method is useful.
+but I don't have confident to write this correctly, I used the method using ZStack.(strong style)
+
+[How to fix “Cannot assign to property: 'self' is immutable”](https://www.hackingwithswift.com/quick-start/swiftui/how-to-fix-cannot-assign-to-property-self-is-immutable)
+
+正直なんで直ったかわからんが治った。本来は変更できないものなの？！
+honestly I did't know why this is solved. swiftui property is not basically!?
+
+[【Xcode 6】対応する開き括弧と閉じ括弧を調べる方法](https://egg-is-world.com/2015/01/09/xcode-brace-check/)
+
+[FFmpegで動画をGIFに変換](https://qiita.com/wMETAw/items/fdb754022aec1da88e6e)
+
+[【SwiftUI】@Stateの使い方](https://capibara1969.com/1608/)
+
+I aften forget "@State"
+
+[Swift4.2でBool値の反転をtoggleで行う](https://qiita.com/iganin/items/7cceb4c644fddfaeef62)
+
+[\[SwiftUI\] VStackの配置、余白、背景色等の設定](https://swiftui.i-app-tec.com/ios/vstack.html#4)
+
+I want to know how to change backgroundcolor
+
+[【Swift入門】if文による条件分岐の書き方を徹底解説！](https://www.sejuku.net/blog/33598)
+
+I want to know how to write "OR"(condition)
+
+[編集ソフトを使わずにCSSで画像を暗くするテクニック](https://kouhekikyozou.com/css_image_darken)
+
+I watched this to appear popup whindow(like alert window)
+
+[【SwiftUI】TextFieldに数字のみ入力しキーボードを閉じる](https://rougo-fukugyo.com/archives/2845)
+
+[【Realm】データの更新・削除（Update・Delete）処理の書き方](https://naoya-ono.com/swift/realm-update-delete/)
+
+I watched this to delete data
