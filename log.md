@@ -898,3 +898,10 @@ I watched this to appear popup whindow(like alert window)
 [【Realm】データの更新・削除（Update・Delete）処理の書き方](https://naoya-ono.com/swift/realm-update-delete/)
 
 I watched this to delete data
+
+
+## Day 63, Saturday 18, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day63:<br>I wrote code of school assignment(recently I&#39;m tweeting same things... I began to feel that I want to write code for other code like game or iPhone apps which I want to create)<br>I wonder I&#39;ve got a break.<br>buuut there are another assignments😇😇<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/cqhm83ztDD">pic.twitter.com/cqhm83ztDD</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1538148210627465216?ref_src=twsrc%5Etfw">June 18, 2022</a></blockquote> 
+
+** reference link **
