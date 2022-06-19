@@ -905,3 +905,36 @@ I watched this to delete data
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day63:<br>I wrote code of school assignment(recently I&#39;m tweeting same things... I began to feel that I want to write code for other code like game or iPhone apps which I want to create)<br>I wonder I&#39;ve got a break.<br>buuut there are another assignments😇😇<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/cqhm83ztDD">pic.twitter.com/cqhm83ztDD</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1538148210627465216?ref_src=twsrc%5Etfw">June 18, 2022</a></blockquote> 
 
 ** reference link **
+
+## Day 64, Sunday 19, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day64:<br>Today I wrote code for iPhoneApp.<br>but I wonder using SwiftUI dose not change detailed parts easily.(I only have used SwiftUI...)<br>uuum... I want to change TabView&#39;s border color but I could not do this...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1538496999431237633?ref_src=twsrc%5Etfw">June 19, 2022</a></blockquote> 
+
+** reference link **
+
+[ナビゲーションバーのカスタマイズ一覧(iOS)](https://qiita.com/uhooi/items/61445e9284c0ddc77659)
+
+I did't use this. but I think this is useful future.
+
+[iOS 15 SwiftUI TabView tab bar appearance doesn't update between views](https://stackoverflow.com/questions/69309689/ios-15-swiftui-tabview-tab-bar-appearance-doesnt-update-between-views)
+
+this saved me.
+
+[【SwiftUI】
+TabViewの背景色を変更する方法
+UITabBar.appearance().backgroundColorを使用する](https://www.motokis-brain.com/article/20)
+
+this is useful. but dosen't work well now?
+
+[Increase size of tab bar item icons in SwiftUI](https://stackoverflow.com/questions/57779126/increase-size-of-tab-bar-item-icons-in-swiftui)
+
+>I've noticed on Xcode 12.0 beta 4 (12A8179i) running on the iOS 14 simulator, this no longer has an effect. The images are all a fixed size, which seems to correspond to the old .font(.title). – 
+>Jeremy
+>
+>Aug 6, 2020 at 23:22
+
+[\[SwiftUI]TabViewの選択しているタブの色を変えるには？\]([[SwiftUI]TabViewの選択しているタブの色を変えるには？](https://www.choge-blog.com/programming/swiftuitabviewchangeselectedtabcolor/))
+
+[How to change Tab Bar or Navigation Title View font in Swift UI](https://xiangyu-sun.medium.com/how-to-change-tab-bar-or-navigation-title-view-font-in-swift-ui-cb1a63d3e59f)
+
+looking useful? but too old?
