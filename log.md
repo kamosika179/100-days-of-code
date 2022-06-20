@@ -938,3 +938,14 @@ this is useful. but dosen't work well now?
 [How to change Tab Bar or Navigation Title View font in Swift UI](https://xiangyu-sun.medium.com/how-to-change-tab-bar-or-navigation-title-view-font-in-swift-ui-cb1a63d3e59f)
 
 looking useful? but too old?
+
+
+## Day 65, Monday 20, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day65:<br>Today I used alert in SwiftUI!!✨<br>I feel Xcode is heavy app... or my laptop is too week?I <br> bought this laptop 2~3 yeas ago... honestly I want to use this computer more about 3 years. <br>the time to build is long...<br>mmmm...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1538708424028205056?ref_src=twsrc%5Etfw">June 20, 2022</a></blockquote> 
+
+** reference link **
+
+[【SwiftUI】アラートの使い方（alert）](https://capibara1969.com/3757/)
+
+[SwiftUI「アラート(Alert)」が表示されない3つの原因](https://www.choge-blog.com/programming/swiftui%E3%80%8C%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88alert%E3%80%8D%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%843%E3%81%A4%E3%81%AE%E5%8E%9F%E5%9B%A0/)
