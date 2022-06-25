@@ -949,3 +949,17 @@ looking useful? but too old?
 [【SwiftUI】アラートの使い方（alert）](https://capibara1969.com/3757/)
 
 [SwiftUI「アラート(Alert)」が表示されない3つの原因](https://www.choge-blog.com/programming/swiftui%E3%80%8C%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88alert%E3%80%8D%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%843%E3%81%A4%E3%81%AE%E5%8E%9F%E5%9B%A0/)
+
+
+## Day 66, Saturday 25, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day66:<br>these days. I ditched...<br>Four days ago, my desktop pc has infected by KP41 disease.(and going now!)😂<br>Today I did my school assignment used scikit-learn.<br>using fusion matrix is funny~ if I could use more these library surely more funny!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1540742656434679808?ref_src=twsrc%5Etfw">June 25, 2022</a></blockquote> 
+
+** reference link **
+[sklearn.model_selection.KFold](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html#sklearn.model_selection.KFold.split)
+
+[scikit-learnで混同行列を生成、適合率・再現率・F1値などを算出](https://note.nkmk.me/python-sklearn-confusion-matrix-score/)
+
+[sklearn.naive_bayes.GaussianNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB.fit)
+
+
