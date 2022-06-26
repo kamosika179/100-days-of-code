@@ -963,3 +963,11 @@ looking useful? but too old?
 [sklearn.naive_bayes.GaussianNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB.fit)
 
 
+## Day 67, Sunday 26, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day67:<br>I read how to use scattertext.<br>the sample code was shown in school resume. but doesn&#39;t work well describing graph. <br>It seems can&#39;t describe using HTML module in vscode?<br>correct?<br>solving method is once output file as html file, then open browser.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1541028631811858433?ref_src=twsrc%5Etfw">June 26, 2022</a></blockquote> 
+
+** reference link **
+
+must there are some reference...
+but I can't find these because of these searched in mac book and this push is from desktop
