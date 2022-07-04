@@ -971,3 +971,31 @@ looking useful? but too old?
 
 must there are some reference...
 but I can't find these because of these searched in mac book and this push is from desktop
+
+#July
+
+## Day 68, Monday 4, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day68:<br>very long period,I skipped to do 100days of code!!<br>I didn&#39;t have any motivation this until today!!!<br>I will try this from today again.<br><br>Today I read mongo db reference (but I can&#39;t understand any!)<br>there is less Japanese information of this...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1543959786177572865?ref_src=twsrc%5Etfw">July 4, 2022</a></blockquote> 
+
+** reference link **
+many!!!
+[Swiftで小数点の桁数表示を調整する方法](https://ymgsapo.com/2022/01/07/swift-dicimal-format/)
+
+[SwiftのFloat系の演算で余り演算子(%)が廃止、それに変わるメソッドはだるま落としと最寄駅](https://qiita.com/samekard/items/81e095832b1cde9b71ba)
+
+[List](https://www.mongodb.com/docs/realm-legacy/docs/swift/latest/api/Classes/List.html#/s:10RealmSwift4ListCA2A11AddableTypeRzrlE7averageqd__SgyAaDRd__lF)
+
+[SwiftUI Argument passed to call that takes no arguments](https://stackoverflow.com/questions/68324357/swiftui-argument-passed-to-call-that-takes-no-arguments)
+
+if you used init(), you can use self.~? from the start, I did't understand swift sytax. 
+That's why I can't understand this.
+
+[Sample realm sync with partition keys for different types (public, private, group)](https://www.mongodb.com/community/forums/t/sample-realm-sync-with-partition-keys-for-different-types-public-private-group/7251)
+
+[Partitions](https://www.mongodb.com/docs/atlas/app-services/sync/data-access-patterns/partitions/#std-label-sync-partitions)
+
+[MongoDB Realm ObservableObject, SwiftUI?](https://stackoverflow.com/questions/64509881/mongodb-realm-observableobject-swiftui)
+
+when sharing data in tutorial, They write nagibationlink.environment~~ . but exist other method.
+setting configuration of realm object, I can use variety partition.(but I set all partition value as "allassignment"... there is meaningless of partition...)
