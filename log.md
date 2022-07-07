@@ -999,3 +999,14 @@ That's why I can't understand this.
 
 when sharing data in tutorial, They write nagibationlink.environment~~ . but exist other method.
 setting configuration of realm object, I can use variety partition.(but I set all partition value as "allassignment"... there is meaningless of partition...)
+
+
+## Day 68, Monday 4, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day69:<br>Today I coded another school assignment iOS app!(don&#39;t say me &quot;you creating iOS app always&quot;!)<br>and I thought maybe I will not scold if I show this app, I attached video!<br>I am interested in &quot;Action Extension&quot;!<br>if I have time, I want to use this...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/zpq8Sj33CU">pic.twitter.com/zpq8Sj33CU</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1545022796861870080?ref_src=twsrc%5Etfw">July 7, 2022</a></blockquote> 
+
+** reference link **
+
+[【SwiftUI】iOS 15から使えるdismissアクションを使って画面を破棄する](https://dev.classmethod.jp/articles/ios15-dismiss-presentation/)
+
+[Swiftとイニシャライザ](https://qiita.com/shtnkgm/items/8b7979fc84a3cc065238)
