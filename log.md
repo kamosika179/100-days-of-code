@@ -1010,3 +1010,14 @@ setting configuration of realm object, I can use variety partition.(but I set al
 [【SwiftUI】iOS 15から使えるdismissアクションを使って画面を破棄する](https://dev.classmethod.jp/articles/ios15-dismiss-presentation/)
 
 [Swiftとイニシャライザ](https://qiita.com/shtnkgm/items/8b7979fc84a3cc065238)
+
+
+## Day 70, Thuesday 12, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day70:<br>Today I added delete function!<br>but have wrote similar code ever~ this was not difficult.(and I didn&#39;t get any new knowledge)<br><br>and set .gitignore file after already added file to remote repository.I have not do this ever!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/90VlWtyvKk">pic.twitter.com/90VlWtyvKk</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1546682443209379840?ref_src=twsrc%5Etfw">July 12, 2022</a></blockquote> 
+
+** reference link **
+
+[.gitignoreを後から設定し、git管理から除外する方法](https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4)
+
+[【Xcode/Swift】Xcodeでの.gitignoreの設定方法、自分が使っている.gitignoreの内容を解説](https://ios-docs.dev/xcode-gitignore/)
