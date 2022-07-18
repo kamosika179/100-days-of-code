@@ -1021,3 +1021,9 @@ setting configuration of realm object, I can use variety partition.(but I set al
 [.gitignoreを後から設定し、git管理から除外する方法](https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4)
 
 [【Xcode/Swift】Xcodeでの.gitignoreの設定方法、自分が使っている.gitignoreの内容を解説](https://ios-docs.dev/xcode-gitignore/)
+
+
+
+## Day 71, Monday 18, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day71:<br>I fixed some bug in ios app which is school assignment today.<br><br>Apart from that, My motivation for coding is suddenly died. it is important,😇<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1548922741709230080?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> 
