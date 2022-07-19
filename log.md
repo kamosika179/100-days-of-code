@@ -1027,3 +1027,17 @@ setting configuration of realm object, I can use variety partition.(but I set al
 ## Day 71, Monday 18, 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day71:<br>I fixed some bug in ios app which is school assignment today.<br><br>Apart from that, My motivation for coding is suddenly died. it is important,😇<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1548922741709230080?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> 
+
+
+
+## Day 72, Thuesday 19, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day72:<br>added edit description view.<br>it showed check mark if you can edit.but it is not work well.<br>I want the icon to change immediately.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/O4U71sihIH">pic.twitter.com/O4U71sihIH</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1549366897808113664?ref_src=twsrc%5Etfw">July 19, 2022</a></blockquote> 
+
+[SwiftUI タップや長押しの認識、onTapGestureとonLongPressGesture](https://i-app-tec.com/swiftui/tap-gesture-recognize.html)
+
+[【SwiftUI】iOS 15から使えるdismissアクションを使って画面を破棄する](https://dev.classmethod.jp/articles/ios15-dismiss-presentation/)
+
+[【SwiftUI】TextFiledで入力欄を実装する方法を解説](https://hirauchi-genta.com/swift-swiftui-textfield/)
+
+
