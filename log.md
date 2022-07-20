@@ -1041,3 +1041,13 @@ setting configuration of realm object, I can use variety partition.(but I set al
 [【SwiftUI】TextFiledで入力欄を実装する方法を解説](https://hirauchi-genta.com/swift-swiftui-textfield/)
 
 
+
+## Day 73, Wednesday 20, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day73:<br>I coded ios app for school assignment little and used e-paper with raspberrypi!<br>Tentatively can showed that I owned picture.<br><br>used this code for this.<br><br>I will see more this code to use well!<a href="https://t.co/P2huAmbqig">https://t.co/P2huAmbqig</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/UI4qaNrhrj">pic.twitter.com/UI4qaNrhrj</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1549769296779550720?ref_src=twsrc%5Etfw">July 20, 2022</a></blockquote> 
+
+**  reference **
+
+[geeekpi/epaper](https://github.com/geeekpi/epaper)
+
+[ImageMagickとは？？](https://imagemagick.biz/)
