@@ -1051,3 +1051,8 @@ setting configuration of realm object, I can use variety partition.(but I set al
 [geeekpi/epaper](https://github.com/geeekpi/epaper)
 
 [ImageMagickとは？？](https://imagemagick.biz/)
+
+
+## Day 74, Thursday 21, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day74:<br>Today I also coded ios apps which is same yesterday.<br><br>Because of the code all most done and I was familiar to these code, I could write speedy ever.(and cause of todays task is easy)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1550078417487659008?ref_src=twsrc%5Etfw">July 21, 2022</a></blockquote>
