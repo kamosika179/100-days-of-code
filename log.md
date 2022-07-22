@@ -1056,3 +1056,19 @@ setting configuration of realm object, I can use variety partition.(but I set al
 ## Day 74, Thursday 21, 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day74:<br>Today I also coded ios apps which is same yesterday.<br><br>Because of the code all most done and I was familiar to these code, I could write speedy ever.(and cause of todays task is easy)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1550078417487659008?ref_src=twsrc%5Etfw">July 21, 2022</a></blockquote>
+
+
+
+
+## Day 75, Friday 22, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day75:<br>I learned pull-up and pulldown and enjoyed turning on led!<br><br>Referencing codes from web, I wrote code that turning on led color randomly! <br>I don’t familiar electronic work. so I want to learn these slowly. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/nVmTGIub5f">pic.twitter.com/nVmTGIub5f</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1550504860352913413?ref_src=twsrc%5Etfw">July 22, 2022</a></blockquote> 
+
+**  reference **
+
+[プルアップ抵抗・プルダウン抵抗とは？電子回路に必須の考え方](https://voltechno.com/blog/pullup-pulldown/)
+
+[【ラズパイ電子工作】RGB(フルカラー)LEDを点灯させる方法](https://denkisekkeijin.com/raspberrypi/pi-rgb-led/)
+
+[抵抗器のカラーコード・表示の読み方、覚え方 (工程動画も公開!)](https://www.akaneohm.com/column/marking/)
+
