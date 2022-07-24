@@ -1072,3 +1072,8 @@ setting configuration of realm object, I can use variety partition.(but I set al
 
 [抵抗器のカラーコード・表示の読み方、覚え方 (工程動画も公開!)](https://www.akaneohm.com/column/marking/)
 
+
+## Day 76, Sunday 22, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:76<br>I added tag function for memo apps!<br><br>I realize some bugs exist when adding this feature, I fixed these bugs. <br>phew...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/sRxm4RBvVZ">pic.twitter.com/sRxm4RBvVZ</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1551162046942965760?ref_src=twsrc%5Etfw">July 24, 2022</a></blockquote>
+
