@@ -1077,3 +1077,16 @@ setting configuration of realm object, I can use variety partition.(but I set al
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:76<br>I added tag function for memo apps!<br><br>I realize some bugs exist when adding this feature, I fixed these bugs. <br>phew...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/sRxm4RBvVZ">pic.twitter.com/sRxm4RBvVZ</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1551162046942965760?ref_src=twsrc%5Etfw">July 24, 2022</a></blockquote>
 
+
+## Day 77, Monday 22, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day: 77<br>I adjusted appearance! <br>I want to change the appearance to less text then I used SF Symbols!! <br>it is looks great!😄<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/39IfAi1DB4">pic.twitter.com/39IfAi1DB4</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1551534045070512128?ref_src=twsrc%5Etfw">July 25, 2022</a></blockquote> 
+
+**  reference **
+
+[SwiftUI Navigation Bar Title Custom View](https://swiftuirecipes.com/blog/swiftui-navigation-bar-title-custom-view)
+
+[【SwiftUI】画像（Image）の使い方](https://capibara1969.com/1861/)
+
+[【SwiftUI】Viewに余白を付加する（padding）](https://capibara1969.com/1954/)
+
