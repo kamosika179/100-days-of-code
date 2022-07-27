@@ -1102,3 +1102,14 @@ setting configuration of realm object, I can use variety partition.(but I set al
 [Show context menu in SwiftUI on tap](https://developer.apple.com/forums/thread/651036)
 
 [【SwiftUI】TextFieldの使い方](https://capibara1969.com/3825/)
+
+## Day 79, Wednesday 27, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day79:<br>I added filter feature!<br><br>it looks becoming good than I expected!<br><br>let&#39;s leaning and implementing my-pace...<br>As much as I can do...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a> <a href="https://t.co/VAtKfQWjck">pic.twitter.com/VAtKfQWjck</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1552197935806709762?ref_src=twsrc%5Etfw">July 27, 2022</a></blockquote> 
+
+**  reference **
+
+[【SwiftUI】Pickerで複数の選択肢から1つを選択してもらうコントロールを実装する方法を解説](https://hirauchi-genta.com/swift-swiftui-picker/)
+
+
+
