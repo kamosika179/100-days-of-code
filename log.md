@@ -1112,4 +1112,14 @@ setting configuration of realm object, I can use variety partition.(but I set al
 [【SwiftUI】Pickerで複数の選択肢から1つを選択してもらうコントロールを実装する方法を解説](https://hirauchi-genta.com/swift-swiftui-picker/)
 
 
+# Augest
 
+## Day 80, Monday 1, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day80:<br>recently, my desktop pc is broken and sought what part was broken...<br>it made me depressed and took me plenty of time...😂<br>and now my desktop pc is not repaired. sad<br><br>anyway!<br>today I coded school assignment code which used file processing with python.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/Ott0uy6DjE">pic.twitter.com/Ott0uy6DjE</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1554128750295412736?ref_src=twsrc%5Etfw">August 1, 2022</a></blockquote> 
+
+**reference** 
+
+[【Python入門】ライブラリmatplotlibの基本的な使い方](https://qiita.com/Morio/items/d75159bac916174e7654)
+
+[Pythonでファイルの読み込み、書き込み（作成・追記）](https://note.nkmk.me/python-file-io-open-with/)
