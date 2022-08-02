@@ -1123,3 +1123,9 @@ setting configuration of realm object, I can use variety partition.(but I set al
 [【Python入門】ライブラリmatplotlibの基本的な使い方](https://qiita.com/Morio/items/d75159bac916174e7654)
 
 [Pythonでファイルの読み込み、書き込み（作成・追記）](https://note.nkmk.me/python-file-io-open-with/)
+
+
+
+## Day 81, Thuesday 2, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day81:<br>I coded from continuation where we left off yesterday!<br>and I had difficulty when I used matplotlib.<br><br> I want to write left side graph scale 0 to 250, it wasn&#39;t well.<br>this problem was solved to make up variables type to same (in my case float)!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/11K4FyT0lY">pic.twitter.com/11K4FyT0lY</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1554442855862546433?ref_src=twsrc%5Etfw">August 2, 2022</a></blockquote> 
