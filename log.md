@@ -1129,3 +1129,27 @@ setting configuration of realm object, I can use variety partition.(but I set al
 ## Day 81, Thuesday 2, 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day81:<br>I coded from continuation where we left off yesterday!<br>and I had difficulty when I used matplotlib.<br><br> I want to write left side graph scale 0 to 250, it wasn&#39;t well.<br>this problem was solved to make up variables type to same (in my case float)!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/11K4FyT0lY">pic.twitter.com/11K4FyT0lY</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1554442855862546433?ref_src=twsrc%5Etfw">August 2, 2022</a></blockquote> 
+
+
+## Day 82, Wednesday 2, 2022
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:82<br>I searched how to use iOS app extension in swiftUI.<br>but I did&#39;t understand little! <br>Anyway I did&#39;t understand swift syntax and how to data sharing between apps and something😂<br><br>if I want to create iOS apps in earnest, I must will read some books.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> (Code...?)</p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1554812086667997189?ref_src=twsrc%5Etfw">August 3, 2022</a></blockquote> 
+
+**references**
+
+**read already(but did't understand)**
+[iOS App Extensions: Data Sharing](https://dmtopolog.com/ios-app-extensions-data-sharing/)
+
+[Building the WriteFreely Action Extension in SwiftUI](https://write.as/angelo/building-the-writefreely-action-extension-in-swiftui)
+
+[iOSのAction Extensionを使って共有から画像を受け取れるようにする](https://zenn.dev/yorifuji/articles/swiftui-action-extension)
+
+[Share Extensionでデータを共有する](https://qiita.com/KosukeQiita/items/994693da551a7101cc9c)
+
+**haven't read(but may useful)**
+
+[How-to Build an iOS Share Extension in Swift](https://hackernoon.com/how-to-build-an-ios-share-extension-in-swift-4a2019935b2e#.7rv9hv3fj)
+
+[【iOS14】App Groups を使用して WidgetKit にデータ共有](https://re-engines.com/2020/11/09/%E3%80%90ios14%E3%80%91app-groups-%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6-widgetkit-%E3%81%AB%E3%83%87%E3%83%BC%E3%82%BF%E5%85%B1%E6%9C%89/)
+
+[SwiftUIアプリとActionExtensionとのデータ共有について](https://qiita.com/popy1017/items/dc7be7dfa6799d17639b)
+
