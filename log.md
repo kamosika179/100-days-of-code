@@ -1131,7 +1131,7 @@ setting configuration of realm object, I can use variety partition.(but I set al
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day81:<br>I coded from continuation where we left off yesterday!<br>and I had difficulty when I used matplotlib.<br><br> I want to write left side graph scale 0 to 250, it wasn&#39;t well.<br>this problem was solved to make up variables type to same (in my case float)!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/11K4FyT0lY">pic.twitter.com/11K4FyT0lY</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1554442855862546433?ref_src=twsrc%5Etfw">August 2, 2022</a></blockquote> 
 
 
-## Day 82, Wednesday 2, 2022
+## Day 82, Wednesday 3, 2022
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:82<br>I searched how to use iOS app extension in swiftUI.<br>but I did&#39;t understand little! <br>Anyway I did&#39;t understand swift syntax and how to data sharing between apps and something😂<br><br>if I want to create iOS apps in earnest, I must will read some books.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> (Code...?)</p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1554812086667997189?ref_src=twsrc%5Etfw">August 3, 2022</a></blockquote> 
 
 **references**
@@ -1153,3 +1153,15 @@ setting configuration of realm object, I can use variety partition.(but I set al
 
 [SwiftUIアプリとActionExtensionとのデータ共有について](https://qiita.com/popy1017/items/dc7be7dfa6799d17639b)
 
+
+## Day 83, Thursday 4, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day83:<br>I read the code of using e-paper. and I added code that if image which is showed in e-paper have color similar red, show red color in e-paper.<br><br>I realized it like &quot;if r &gt;= 200 and b and g &lt;= 120 then show red&quot;. if you have more good idea please teach me!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/OfPDdGP4Qa">pic.twitter.com/OfPDdGP4Qa</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1555185275835678725?ref_src=twsrc%5Etfw">August 4, 2022</a></blockquote>
+
+**reference**
+
+[Pillow](https://pillow.readthedocs.io/en/stable/)
+
+[ビット演算に関する演算子](https://www.javadrive.jp/python/num/index4.html)
+
+[画像処理ライブラリであるOpenCVを使って、画像の二値化を簡単に行う](https://www.stjun.com/entry/2020/02/07/011328)
