@@ -1165,3 +1165,8 @@ setting configuration of realm object, I can use variety partition.(but I set al
 [ビット演算に関する演算子](https://www.javadrive.jp/python/num/index4.html)
 
 [画像処理ライブラリであるOpenCVを使って、画像の二値化を簡単に行う](https://www.stjun.com/entry/2020/02/07/011328)
+
+
+## Day 84, Saturday 6, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day84:<br>I tried to use share extension also today.<br>but it didn&#39;t work well...<br><br>I wonder temporarily suspend adding it, studying UIkit and swift syntax...?<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/DkkwGX0aa3">pic.twitter.com/DkkwGX0aa3</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1555891930391015425?ref_src=twsrc%5Etfw">August 6, 2022</a></blockquote> 
