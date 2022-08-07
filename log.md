@@ -1170,3 +1170,46 @@ setting configuration of realm object, I can use variety partition.(but I set al
 ## Day 84, Saturday 6, 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day84:<br>I tried to use share extension also today.<br>but it didn&#39;t work well...<br><br>I wonder temporarily suspend adding it, studying UIkit and swift syntax...?<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/DkkwGX0aa3">pic.twitter.com/DkkwGX0aa3</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1555891930391015425?ref_src=twsrc%5Etfw">August 6, 2022</a></blockquote> 
+
+
+## Day 85, Sunday 7, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day85:<br>I coded to describe some shapes and text with Pillow!<br><br>I will want to describe working time to e-paper module with getting working time from toggle and using program that I created today!<br><br>(also I used julius which is recognize voice today)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/dE0Q5AW0T2">pic.twitter.com/dE0Q5AW0T2</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1556273773363744775?ref_src=twsrc%5Etfw">August 7, 2022</a></blockquote> 
+
+**reference**
+
+**fonts**
+
+[TrueTypeとOpenType、どう選べばいい?](https://fontnavi.jp/zakkuri/202-truetype_opentype.aspx)
+
+[うずらフォント](http://azukifont.com/font/uzura.html)
+
+[debian.org Fonts](https://wiki.debian.org/Fonts)
+
+[ラズパイに日本語フォントをインストールしてmatplotlibで日本語表示させた件](https://www.souichi.club/raspberrypi/japanese-font/)
+
+[Raspberry Pi : IPA 日本語フォントの導入](https://raspi.ryo.sc/raspi_ipa_font/)
+
+[ImageDraw Module](https://pillow.readthedocs.io/en/latest/reference/ImageDraw.html)
+
+[pillowを使用しPythonで画像にテキストを追加する](https://laboratory.kazuuu.net/add-text-to-images-in-python-using-pillow/)
+
+[Python, Pillowで円や四角、直線などの図形を描画](https://note.nkmk.me/python-pillow-imagedraw/)
+
+[【Python/Pillow(PIL)】画像データの新規作成](https://imagingsolution.net/program/python/pillow/create_new_image_data/)
+
+[Python+Pillowで、任意の文字列を画像で出力する](https://qiita.com/YoshikiIto/items/ace92dc9b05e375b8326)
+
+**julius**
+
+[Raspberry Piで単語を高速音声認識](https://monomonotech.jp/kurage/raspberrypi/julius.html)
+
+[Difference between "hwplug" and "hw"](https://raspberrypi.stackexchange.com/questions/69058/difference-between-hwplug-and-hw)
+
+[Linux の Audio 機能をコマンドラインで設定](https://qiita.com/propella/items/4699eda71cd742cba8d3)
+
+[Raspberry Pi オーディオまとめ](https://www.ukeyslabo.com/raspberry-pi/audio/)
+
+[Raspberry PiとJuliusで特定の単語を認識させる](https://www.pc-koubou.jp/magazine/19743)
+
+[Raspberry Pi×JuliusとPythonでスマートスピーカー風にカメラを操作](https://www.pc-koubou.jp/magazine/20637)
