@@ -1213,3 +1213,17 @@ setting configuration of realm object, I can use variety partition.(but I set al
 [Raspberry PiとJuliusで特定の単語を認識させる](https://www.pc-koubou.jp/magazine/19743)
 
 [Raspberry Pi×JuliusとPythonでスマートスピーカー風にカメラを操作](https://www.pc-koubou.jp/magazine/20637)
+
+
+
+## Day 86, Monday 8, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day86:<br>I tested surbo morter which is arrived with raspberry pi today!😎<br>it looks fine! is not broken!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/uzGIP9EGJL">pic.twitter.com/uzGIP9EGJL</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1556617242023866370?ref_src=twsrc%5Etfw">August 8, 2022</a></blockquote> 
+
+
+**reference**
+
+[RPi.GPIOでPWM信号を出力する](https://www.mechatronahibi.com/rpi-gpio-pwm/)
+
+[Raspberry Piでサーボモータ（SG90）を制御する](http://bufferoverruns.blogspot.com/2016/08/raspberry-pisg-90.html)
+
