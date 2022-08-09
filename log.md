@@ -1227,3 +1227,16 @@ setting configuration of realm object, I can use variety partition.(but I set al
 
 [Raspberry Piでサーボモータ（SG90）を制御する](http://bufferoverruns.blogspot.com/2016/08/raspberry-pisg-90.html)
 
+
+## Day 87, Thuesday 9, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day87:<br>I also got ordered things today from aliexpress!<br>LED TAPE!!!(WS2812B)<br>and then I connected it to raspberry pi and tested it <br><br>I used adafruit module. but I want to try using RPI.GPIO module and blight these.(is it possible??)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/GTVk7jT0WU">pic.twitter.com/GTVk7jT0WU</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1556980468884443141?ref_src=twsrc%5Etfw">August 9, 2022</a></blockquote> 
+
+**reference**
+
+[NeoPixels on Raspberry Pi](https://learn.adafruit.com/neopixels-on-raspberry-pi/raspberry-pi-wiring)
+
+[WS2812B　フルカラーシリアルLEDの使い方](https://www.marutsu.co.jp/pc/static/large_order/WS2812B_0124)
+
+when I try to trun lights of  ws2812, I need to see this site to know pwm pulth width like that.
+
