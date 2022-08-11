@@ -1240,3 +1240,23 @@ setting configuration of realm object, I can use variety partition.(but I set al
 
 when I try to trun lights of  ws2812, I need to see this site to know pwm pulth width like that.
 
+## Day 88, Thursday 11, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day88:<br>I searched and read toggl track API reference.<br>I tried it with thunder client extension, and I found that i may get information which I want!<br><br>next time, I will try to use this API in Python.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1557641948772458496?ref_src=twsrc%5Etfw">August 11, 2022</a></blockquote> 
+
+**reference**
+
+[toggl api overview](https://developers.track.toggl.com/docs/)
+
+[toggl authentication](https://developers.track.toggl.com/docs/authentication/index.html)
+
+[toggl time entries](https://developers.track.toggl.com/docs/api/time_entries)
+
+[ベーシック認証（Basic認証）とは？設定方法と注意点・エラーになる原因を解説](https://www.itra.co.jp/webmedia/basic_authentication.html)
+
+[UNIXタイムスタンプ変換](http://neconote.jp/tool/unix_time.php)
+
+[UNIXタイムスタンプ (ユニックスタイムスタンプ)](https://wa3.i-3-i.info/word18475.html)
+
+
+
