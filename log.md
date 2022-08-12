@@ -1258,5 +1258,43 @@ when I try to trun lights of  ws2812, I need to see this site to know pwm pulth 
 
 [UNIXタイムスタンプ (ユニックスタイムスタンプ)](https://wa3.i-3-i.info/word18475.html)
 
+## Day 89, Friday 12, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day89:<br>I used toggl API in Python!<br><br>when I sat api key in environment variables and used basic auth, some problems happened.<br><br>but anyway! I could use toggl API from python library!<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a> <a href="https://t.co/s72Jjl4T4X">pic.twitter.com/s72Jjl4T4X</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1558058466773991424?ref_src=twsrc%5Etfw">August 12, 2022</a></blockquote> 
+
+**reference**
+
+**environment variables**
+
+[シェル変数と環境変数](https://codezine.jp/unixdic/w/%E3%82%B7%E3%82%A7%E3%83%AB%E5%A4%89%E6%95%B0%E3%81%A8%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0)
+
+[Linuxで使用される主な環境変数・PATH、HOME、PS1・printenv、set、declare](https://blog.s-giken.net/459.html)
+
+[chown - ファイルの所有者やグループを変更 - Linuxコマンド](https://webkaru.net/linux/chown-command/)
+
+[Difference between Login Shell and Non-Login Shell?](https://unix.stackexchange.com/questions/38175/difference-between-login-shell-and-non-login-shell)
+
+[bashの設定ファイル（.bash_profile, .bashrc等）がどんなときに読み込まれるかまとめ](https://qiita.com/aosho235/items/3c2e123ab346eb568826)
+
+[\[Linux\]環境変数の読み込み順番](https://qiita.com/yunzeroin/items/480a3a677f78a57ac52f)
 
 
+**python library**
+
+[Pythonで環境変数を取得・追加・上書き・削除（os.environ）](https://note.nkmk.me/python-os-environ-getenv/)
+
+request
+
+[\[Python\] 3系でBasic認証付きのHTTPリクエストを発行する（urllib.request利用）](https://www.yoheim.net/blog.php?q=20181003)
+
+[Python, Requestsの使い方](https://note.nkmk.me/python-requests-usage/)
+
+[\[Python\] HTTP通信でGetやPostを行う[](https://www.yoheim.net/blog.php?q=20160204)
+
+[Python3のスクリプトでjsonをPOSTする](https://qiita.com/neko_the_shadow/items/324976c7b54623e82b26)
+
+requests
+
+[requests クイックスタート](https://requests-docs-ja.readthedocs.io/en/latest/user/quickstart/)
+
+[Python: requestsでBasic認証](https://ohke.hateblo.jp/entry/2019/10/05/230000)
