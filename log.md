@@ -1298,3 +1298,28 @@ requests
 [requests クイックスタート](https://requests-docs-ja.readthedocs.io/en/latest/user/quickstart/)
 
 [Python: requestsでBasic認証](https://ohke.hateblo.jp/entry/2019/10/05/230000)
+
+
+
+## Day 90, Saturday 13, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 90:<br>I coded can get unix epoch of this Monday.<br><br>I noticed describing time in computer has some ingenuity!!<br><br>I want to understand these ingenuity someday.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/cXvTwUF8ns">pic.twitter.com/cXvTwUF8ns</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1558394266937806849?ref_src=twsrc%5Etfw">August 13, 2022</a></blockquote>
+
+**reference**
+
+[UNIXタイムスタンプを日付と時刻に変換する](https://url-c.com/tc/)
+
+[\[Python\] date と datetime オブジェクトの相互変換まとめ](https://kokufu.blogspot.com/2018/12/python-date-datetime.html)
+
+[【毎日Python】Pythonで曜日を取得する方法｜datetime.date.weekday](https://kino-code.com/python-datetime-weekday/)
+
+[Pythonで現在時刻・日付・日時を取得](https://note.nkmk.me/python-datetime-now-today/)
+
+[Pythonのdatetimeで日付や時間と文字列を変換（strftime, strptime）](https://note.nkmk.me/python-datetime-usage/)
+
+[PythonでUNIX時間（エポック秒）と日時datetimeを相互変換](https://note.nkmk.me/python-unix-time-datetime/)
+
+[Pythonのpprintの使い方（リストや辞書を整形して出力）](https://note.nkmk.me/python-pprint-pretty-print/)
+
+[Python, Requestsの使い方](https://note.nkmk.me/python-requests-usage/)
+
