@@ -1323,3 +1323,28 @@ requests
 
 [Python, Requestsの使い方](https://note.nkmk.me/python-requests-usage/)
 
+
+## Day 91, Sunday 14, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day91:<br>I could combine a code which generate image with code get working hour from toggl API.<br><br>The code is so poor. but I want to put the code in github. however I used a code from github show image in epaper and I didn&#39;t know about oss licenses <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/0FKFIUGnLA">pic.twitter.com/0FKFIUGnLA</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1558824718647836679?ref_src=twsrc%5Etfw">August 14, 2022</a></blockquote> 
+
+**reference**
+
+[The Current Epoch Unix Timestamp](https://www.unixtimestamp.com/)
+
+[日時のフォーマット（ISO 8601）](https://qiita.com/kidatti/items/272eb962b5e6025fc51e)
+
+[Toggl Reports API v2](https://github.com/toggl/toggl_api_docs/blob/master/reports.md)
+
+[Weekly report](https://github.com/toggl/toggl_api_docs/blob/master/reports/weekly.md)
+
+[Summary report](https://github.com/toggl/toggl_api_docs/blob/master/reports/summary.md)
+
+[Rust で Toggl API を利用する](https://qiita.com/tsuchinoko0402/items/898104e5500a7618fccf)
+
+[Python で指定時間前（１日前、1年前など）、指定時間後（１日後、1年後）を求める方法](https://leben.mobi/blog/python_date_before_after/python/)
+
+[エンジニアが最低限理解しておくべきOSSライセンスの基礎知識](https://future-architect.github.io/articles/20200821/)
+
+[ライセンスをつけないとどうなるの？](https://qiita.com/Tatamo/items/ae7bf4878abcf0584291)
+
