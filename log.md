@@ -1348,3 +1348,36 @@ requests
 
 [ライセンスをつけないとどうなるの？](https://qiita.com/Tatamo/items/ae7bf4878abcf0584291)
 
+
+## Day 92, Monday 15, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day92:<br>I wrote a code could show a image on e-paper about amount of hours did you doing tasks.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/NhWwKGPwaK">pic.twitter.com/NhWwKGPwaK</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1559172101625741314?ref_src=twsrc%5Etfw">August 15, 2022</a></blockquote> 
+
+**reference**
+
+[kamosika179/epaper](https://github.com/kamosika179/epaper)
+
+[GPLv3](https://www.wdic.org/w/TECH/GPLv3)
+
+[GPL系のOSSライセンスとソースコード開示義務](https://www.it-houmu.com/archives/1902)
+
+[Pythonパッケージの依存関係とライセンスを確認する](https://dev.classmethod.jp/articles/python-pipdeptree_licenses/)
+
+[Pythonパッケージのライセンスを確認する方法](https://ja.stackoverflow.com/questions/48650/python%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
+
+"pip show " comannd is useful
+
+[【Python】制作物を商用利用・配布する場合のライセンスの取り扱い](https://office54.net/python/license/python-license-psfl)
+
+[Historical Permission Notice and Disclaimer](Historical Permission Notice and Disclaimer)
+
+[Python のライセンスと標準ライブラリ、サードパーティライブラリのimport について](https://kenkov.hatenablog.jp/entry/2012/09/09/061347)
+
+[ネット上で公開されているコードをコピペする前に確認すべきこと](http://tomeapp.jp/archives/1010)
+
+[ソースコードのライセンスの書き方](https://www.bugbugnow.net/2018/05/blog-post.html)
+
+[Python, Pillowで画像を回転するrotate](https://note.nkmk.me/python-pillow-rotate/)
+
+[The MIT License](https://opensource.org/licenses/MIT)
+
