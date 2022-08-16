@@ -1381,3 +1381,24 @@ requests
 
 [The MIT License](https://opensource.org/licenses/MIT)
 
+
+
+## Day 93, Thuesday 16, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day92:<br>I sat cron job first. and I got trouble!!<br>environment variable cause this problem.<br><br>I am glad to solve it.<br><br>(and added weekday to created image)<br> <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/dOhdHKaV81">pic.twitter.com/dOhdHKaV81</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1559555465498882048?ref_src=twsrc%5Etfw">August 16, 2022</a></blockquote>
+
+[【ラズベリーパイ4】cronでPythonプログラムを定期的に実行](https://algorithm.joho.info/raspberry-pi/cron-python/)
+
+[決まった時間に処理する](http://make.bcde.jp/raspberry-pi/%E6%B1%BA%E3%81%BE%E3%81%A3%E3%81%9F%E6%99%82%E9%96%93%E3%81%AB%E5%87%A6%E7%90%86%E3%81%99%E3%82%8B/)
+
+[Raspberry Piでcronを使ってPythonを定期実行する](https://www.raspberrypirulo.net/entry/cron)
+
+[Raspberry Piで作る、暗くなったらLEDを点灯する回路](https://www.fabshop.jp/raspberry-pi%E3%81%A7%E4%BD%9C%E3%82%8B%E3%80%81%E6%9A%97%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89led%E3%82%92%E7%82%B9%E7%81%AF%E3%81%99%E3%82%8B%E5%9B%9E%E8%B7%AF/)
+
+[raspbian+Python3でcronが動かなくて困った話](http://oyatsu-bu.com/hinukai/2020/04/cron_log/)
+
+[cronのログを出すように設定する](https://shima-nigoro.hatenablog.jp/entry/2016/06/12/182903)
+
+[【保存版】cronでPython3を定時実行する方法&注意すべき４つのポイント](https://tanuhack.com/cron/)
+
+[cronジョブでの環境変数設定について、と色々cronについて補足](https://rcmdnk.com/blog/2020/01/12/computer-linux-mac/)
