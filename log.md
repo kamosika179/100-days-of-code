@@ -1387,6 +1387,8 @@ requests
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day92:<br>I sat cron job first. and I got trouble!!<br>environment variable cause this problem.<br><br>I am glad to solve it.<br><br>(and added weekday to created image)<br> <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/dOhdHKaV81">pic.twitter.com/dOhdHKaV81</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1559555465498882048?ref_src=twsrc%5Etfw">August 16, 2022</a></blockquote>
 
+**reference**
+
 [【ラズベリーパイ4】cronでPythonプログラムを定期的に実行](https://algorithm.joho.info/raspberry-pi/cron-python/)
 
 [決まった時間に処理する](http://make.bcde.jp/raspberry-pi/%E6%B1%BA%E3%81%BE%E3%81%A3%E3%81%9F%E6%99%82%E9%96%93%E3%81%AB%E5%87%A6%E7%90%86%E3%81%99%E3%82%8B/)
@@ -1402,3 +1404,15 @@ requests
 [【保存版】cronでPython3を定時実行する方法&注意すべき４つのポイント](https://tanuhack.com/cron/)
 
 [cronジョブでの環境変数設定について、と色々cronについて補足](https://rcmdnk.com/blog/2020/01/12/computer-linux-mac/)
+
+
+## Day 94, Wednesday 17, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day94:<br>I learned how to do web scraping.<br><br>I got article title in my blog!<br><br>I want to create that if new item which I wanted added to shopping site, notified me finally. <a href="https://twitter.com/hashtag/100DaysofCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysofCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/P85l1Vm5AS">pic.twitter.com/P85l1Vm5AS</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1559922625136041984?ref_src=twsrc%5Etfw">August 17, 2022</a></blockquote> 
+
+**reference**
+
+[リクエストごとにヘッダを設定する (Request)](https://maku77.github.io/python/web/http-request-with-header.html)
+
+[かもしかのお部屋](https://www.forrexlapis.win/)
+
