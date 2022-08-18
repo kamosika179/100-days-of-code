@@ -1416,3 +1416,7 @@ requests
 
 [かもしかのお部屋](https://www.forrexlapis.win/)
 
+
+## Day 95, Thursday 18, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day95:<br>I read the book of web scraping.<br>I&#39;m curious when the time coding something time surpass learning code time. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1560243393837809664?ref_src=twsrc%5Etfw">August 18, 2022</a></blockquote> 
