@@ -1434,3 +1434,19 @@ requests
 
 [Theme Documentation - Content](https://hugoloveit.com/theme-documentation-content/)
 
+
+## Day 97, Saturday 20, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day97:<br>I also read how to create Hugo theme.<br><br>I read some article about it,<br>All of article say it is easy. but I wonder it looks difficult for me. <br><br>I did&#39;t understand well yet.<br>it uses html or css(and go?). I will learn these.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1560951552046559232?ref_src=twsrc%5Etfw">August 20, 2022</a></blockquote> 
+
+**reference**
+
+[Hugoのテーマを何個か作ったので知見をまとめてみる](https://blog.unresolved.xyz/how-to-make-of-hugo-theme)
+
+[Hugo のテーマを自作した](https://blog.matsuyoshi30.net/posts/2020/03/15/make-hugo-theme/)
+
+[Hugoのテーマを自作する: hugo new themeから最低限の要素を書くまで](https://asssy.hatenablog.jp/entry/2020/05/19/113000)
+
+[テーマを使わず、hugoでサイトを作る](https://blog.blackcoffy.net/posts/create-blog-using-hugo)
+
+[Hugoのテーマを自作したので、知見メモ](https://ggdg.tkan.dev/post/i-make-a-theme-for-hugo/)
