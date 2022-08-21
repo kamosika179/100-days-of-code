@@ -1450,3 +1450,16 @@ requests
 [テーマを使わず、hugoでサイトを作る](https://blog.blackcoffy.net/posts/create-blog-using-hugo)
 
 [Hugoのテーマを自作したので、知見メモ](https://ggdg.tkan.dev/post/i-make-a-theme-for-hugo/)
+
+
+
+## Day 98, Sunday 21, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day98:<br>I read how to create hugo template continuing from yesterday.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1561356306384318465?ref_src=twsrc%5Etfw">August 21, 2022</a></blockquote>
+
+
+**reference**
+
+[Content Organization](https://gohugo.io/content-management/organization/)
+
+[Introduction to Hugo Templating](https://gohugo.io/templates/introduction/)
