@@ -1463,3 +1463,8 @@ requests
 [Content Organization](https://gohugo.io/content-management/organization/)
 
 [Introduction to Hugo Templating](https://gohugo.io/templates/introduction/)
+
+
+## Day 99, Monday 22, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day99:<br>I read hugo documentation continuing from yesterday.<br>if I want to create beautiful blog, I need to learn some framework? <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1561674075424292864?ref_src=twsrc%5Etfw">August 22, 2022</a></blockquote> 
