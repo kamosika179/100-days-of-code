@@ -1468,3 +1468,18 @@ requests
 ## Day 99, Monday 22, 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day99:<br>I read hugo documentation continuing from yesterday.<br>if I want to create beautiful blog, I need to learn some framework? <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1561674075424292864?ref_src=twsrc%5Etfw">August 22, 2022</a></blockquote> 
+
+
+
+## Day 100, Thuesday 23, 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day:100!<br>I managed to use created theme with reading tutorial site.<br>I may was able to understand it usage little.<br><br>I want to read more hugo documentation and next learn css framework or something for be looking good.<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/jjcYypjGqE">pic.twitter.com/jjcYypjGqE</a></p>&mdash; Kamosika (Studying English!) (@Poteto_464946) <a href="https://twitter.com/Poteto_464946/status/1562052579894624256?ref_src=twsrc%5Etfw">August 23, 2022</a></blockquote> 
+
+**reference**
+
+[Creating a Hugo Theme From Scratch](https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/)
+
+[Hugoのテーマ作成についての覚書](https://zenn.dev/akkey247/scraps/17951297f5b13d)
+
+[Hugoで1からテーマを作ってGitHub Pagesにデプロイする](https://www.membersedge.co.jp/blog/create-hugo-theme-and-deploy-to-github-pages/)
+
